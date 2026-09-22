@@ -1,0 +1,3002 @@
+[
+ {
+  "id": 1,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the Ontario land transfer tax rate on the first $55,000 of consideration?",
+  "back": "0.5 per cent. This is the lowest bracket under the graduated rate structure in section 2(1) of the Land Transfer Tax Act."
+ },
+ {
+  "id": 2,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What are the Ontario land transfer tax rates for consideration between $55,000 and $400,000?",
+  "back": "1 per cent on the portion from $55,000 to $250,000, and 1.5 per cent on the portion from $250,000 to $400,000. Above $400,000 the rate is 2 per cent."
+ },
+ {
+  "id": 3,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the top marginal Ontario land transfer tax rate on land with one or two single family residences?",
+  "back": "2.5 per cent, made up of the standard 2 per cent over $400,000 plus an additional 0.5 per cent on the portion of consideration over $2,000,000."
+ },
+ {
+  "id": 4,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "When did the provincial land transfer tax brackets last change?",
+  "back": "January 1, 2017. The graduated rates in section 2(1) of the Land Transfer Tax Act have not changed since then, despite a common assumption that they are adjusted regularly."
+ },
+ {
+  "id": 5,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the maximum Ontario land transfer tax refund for a qualifying first time purchaser?",
+  "back": "$4,000, for a conveyance on or after January 1, 2017. This means no land transfer tax is payable by a qualifying first time purchaser on the first $368,000 of value."
+ },
+ {
+  "id": 6,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What are the core eligibility requirements for the Ontario first time homebuyer land transfer tax refund?",
+  "back": "The purchaser must be at least 18, a Canadian citizen or permanent resident, must never have owned a home anywhere in the world, and must not have a spouse who owned a home while married to the purchaser."
+ },
+ {
+  "id": 7,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What are the occupancy and application deadlines for the Ontario first time homebuyer land transfer tax refund?",
+  "back": "The purchaser must occupy the home as a principal residence within 9 months after the conveyance, and the refund application must be made within 18 months after the conveyance."
+ },
+ {
+  "id": 8,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is Ontario's Non Resident Speculation Tax rate, and how does it apply?",
+  "back": "25 per cent, in addition to the general land transfer tax, on designated land in the specified region conveyed to a foreign entity or taxable trustee, for conveyances tendered after October 24, 2022."
+ },
+ {
+  "id": 9,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Does a purchase in the City of Toronto attract more than one land transfer tax?",
+  "back": "Yes. A Toronto purchase can attract both the Ontario land transfer tax and a separate City of Toronto municipal land transfer tax, imposed under Toronto Municipal Code Chapter 760."
+ },
+ {
+  "id": 10,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Is Ontario real property owned by a deceased person included in the value of the estate for Estate Administration Tax?",
+  "back": "Yes, at its value net of mortgages and other encumbrances. The value of the estate under the Estate Administration Tax Act includes all property belonging to the deceased at death, less encumbrances on real property."
+ },
+ {
+  "id": 11,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What compliance statement is required to register a transfer from an estate trustee to a beneficiary?",
+  "back": "A statement by the transferor's solicitor confirming the transfer is from an estate trustee, executor or administrator to a person beneficially entitled, one of the compliance with law statements required under O. Reg. 19/99."
+ },
+ {
+  "id": 12,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What are the two systems of land registration in Ontario?",
+  "back": "The Registry Act system, where title is built from a search of recorded instruments, and the Land Titles Act system, where title is guaranteed by parcel and backed by the Land Titles Assurance Fund."
+ },
+ {
+  "id": 13,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How far back must a purchaser's lawyer search title on registry land?",
+  "back": "40 years immediately preceding the dealing, the title search period defined in section 112 of the Registry Act."
+ },
+ {
+  "id": 14,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the parcel register under the Land Titles Act?",
+  "back": "An automated index kept by the land registrar that records every instrument affecting a property under its property identifier. It is why a Land Titles search is a parcel search rather than a 40 year chain of title search."
+ },
+ {
+  "id": 15,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How does land move from the Registry Act system into the Land Titles system?",
+  "back": "The land registrar has the power under the Land Titles Act to register registry land for first registration under the Act, after which later dealings are registered and searched under the Land Titles Act."
+ },
+ {
+  "id": 16,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Does an electronic land registration document need to be signed by the parties?",
+  "back": "No. Under section 21 of the Land Registration Reform Act, an electronic document is not required to be in writing or signed, and it has the same legal effect as a signed written document."
+ },
+ {
+  "id": 17,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the Land Titles Assurance Fund and how is it maintained?",
+  "back": "A statutory compensation fund continued under the Land Titles Act, topped up from the Consolidated Revenue Fund whenever its balance falls below $1,000,000. A claim must be made within 6 years of the loss."
+ },
+ {
+  "id": 18,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How does title searching differ between registry land and Land Titles land?",
+  "back": "On registry land the lawyer proves a 40 year chain of recorded instruments. On Land Titles land the lawyer searches the parcel register directly, since title is guaranteed rather than merely recorded."
+ },
+ {
+  "id": 19,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Where are writs of execution against real property recorded in Ontario?",
+  "back": "Writs are filed with the sheriff and entered into an electronic index the sheriff maintains. Under the Land Titles Act, a registered owner's title is subject to enforceable writs recorded against that owner on the register."
+ },
+ {
+  "id": 20,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Why does a purchaser's lawyer obtain a municipal tax certificate before closing?",
+  "back": "Because unpaid municipal taxes are a special lien on the land in priority to every other claim, privilege, lien or encumbrance except the Crown's, under section 349(3) of the Municipal Act, 2001."
+ },
+ {
+  "id": 21,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What can a lawyer recommend where a property does not comply with a zoning by-law for a permitted use?",
+  "back": "The by-law can be amended, or the committee of adjustment can grant a minor variance under section 45(1) of the Planning Act."
+ },
+ {
+  "id": 22,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Under what authority must a building permit be obtained before construction or demolition in Ontario?",
+  "back": "Section 8(1) of the Building Code Act, 1992. No person may construct or demolish a building unless the chief building official has issued a permit."
+ },
+ {
+  "id": 23,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Why are outstanding building work orders a title risk for a purchaser?",
+  "back": "A building inspector who finds a contravention of the Building Code Act may order compliance, and that order can bind the owner and affect the use of the property, so it must be searched for before closing."
+ },
+ {
+  "id": 24,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What does section 50(3) of the Planning Act generally prohibit?",
+  "back": "Conveying, mortgaging, or agreeing to sell land that is not described in accordance with a registered plan of subdivision, unless a consent, also called a severance, has been obtained or an exception applies."
+ },
+ {
+  "id": 25,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Who has the authority to give a consent, also called a severance, under the Planning Act?",
+  "back": "The council of the upper tier or single tier municipality, or the Minister, depending on location, and council may delegate that power by by-law to a committee, officer or the committee of adjustment."
+ },
+ {
+  "id": 26,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the legal effect of a conveyance made in contravention of section 50 of the Planning Act?",
+  "back": "It does not create or convey any interest in land at all, except where the agreement is expressly made effective only if section 50 is complied with."
+ },
+ {
+  "id": 27,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What test does a committee of adjustment apply to grant a minor variance?",
+  "back": "The variance must be desirable for the appropriate development or use of the land, and the general intent and purpose of the zoning by-law and the official plan must be maintained."
+ },
+ {
+  "id": 28,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How long does a party have to appeal a committee of adjustment decision on a minor variance?",
+  "back": "20 days from the decision, by filing a notice of appeal with the committee's secretary treasurer and paying the required Tribunal fee."
+ },
+ {
+  "id": 29,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What percentage holdback must a payer retain under the Construction Act?",
+  "back": "10 per cent of the price of services or materials actually supplied, retained until all liens that could be claimed against the holdback have expired, been satisfied or otherwise provided for."
+ },
+ {
+  "id": 30,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "When does a second, separate holdback apply under the Construction Act?",
+  "back": "Where a contract is certified or declared substantially performed but services or materials remain to be supplied, the payer must retain a further 10 per cent of the price of that remaining work, from the date of substantial performance."
+ },
+ {
+  "id": 31,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the money test for substantial performance under the Construction Act?",
+  "back": "The improvement is ready or being used for its intended purpose, and can be completed or corrected for not more than 3 per cent of the first $1,000,000 of the contract price, plus 2 per cent of the next $1,000,000, plus 1 per cent of the balance."
+ },
+ {
+  "id": 32,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How long after the triggering event does an unpreserved construction lien expire?",
+  "back": "60 days after the earlier of publication of a certificate or declaration of substantial performance, or completion, abandonment or termination of the contract."
+ },
+ {
+  "id": 33,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How is a construction lien preserved under the Construction Act?",
+  "back": "By registering a claim for lien on title, where the lien attaches to the premises, or by giving a copy of the claim for lien to the owner, where it does not attach, any time before the lien expires."
+ },
+ {
+  "id": 34,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How many days after preservation does a claimant have to perfect a construction lien?",
+  "back": "90 days. This is the current perfection period under section 36 of the Construction Act, replacing the old 45 day rule that still appears in outdated sources."
+ },
+ {
+  "id": 35,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Under the prompt payment rules, how long does an owner have to pay a proper invoice from a contractor?",
+  "back": "28 days after receiving the proper invoice, unless the owner gives a notice of non payment within the time allowed."
+ },
+ {
+  "id": 36,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How long does an owner have to give a notice of non payment disputing a proper invoice?",
+  "back": "14 days after receiving the proper invoice. The notice must be in the prescribed form and set out the amount withheld and all the reasons."
+ },
+ {
+  "id": 37,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "When does a mortgagee's statutory power of sale become exercisable under the Mortgages Act?",
+  "back": "After 3 months from default in payment of any money due under the mortgage, or after an omission to pay required insurance, as if the power had been written into the mortgage."
+ },
+ {
+  "id": 38,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How much written notice must a mortgagee give before exercising the statutory power of sale?",
+  "back": "45 days, in the prescribed form, given to the persons and in the manner required by Part III of the Mortgages Act. This was increased from 35 days, effective January 1, 2022."
+ },
+ {
+  "id": 39,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What notice periods apply where the mortgage itself contains a power of sale on default?",
+  "back": "The default must continue at least 15 days before notice can be given, and the sale cannot happen until at least 35 days after that notice is given."
+ },
+ {
+  "id": 40,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How can a mortgagor obtain relief after a mortgage enforcement action has already started?",
+  "back": "By paying $100 into court as security for costs and applying to the court. Conditional on paying what is due and the costs of the action, the court must dismiss the action if judgment has not yet been recovered."
+ },
+ {
+  "id": 41,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How does a judicial sale differ from a power of sale?",
+  "back": "A power of sale is the mortgagee's contractual or statutory right to sell without going to court. A judicial sale happens inside a mortgage action, with the court ordering the sale and supervising the proceeds."
+ },
+ {
+  "id": 42,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What happens to a residential tenancy when a mortgagee takes title by foreclosure or power of sale?",
+  "back": "The mortgagee in possession, or the party who obtains title, is deemed to be the landlord under the existing tenancy agreement under section 66(1) of the Mortgages Act."
+ },
+ {
+  "id": 43,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Can a purchaser's title under a power of sale be impeached for a defect in the notice process?",
+  "back": "No. Where notice was given in professed compliance with Part III of the Mortgages Act, the purchaser's title cannot be impeached on that ground; anyone harmed has a remedy against the party who exercised the power instead."
+ },
+ {
+  "id": 44,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the Residential Tenancies Act rent increase guideline for 2026?",
+  "back": "2.1 per cent, the maximum most landlords can increase rent without Landlord and Tenant Board approval. The figure changes annually and is capped at 2.5 per cent."
+ },
+ {
+  "id": 45,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How much written notice must a landlord give before increasing rent under the Residential Tenancies Act?",
+  "back": "At least 90 days' written notice, in a form approved by the Board, setting out the new rent. An increase without proper notice is void."
+ },
+ {
+  "id": 46,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How much time must pass between rent increases for the same tenant under the Residential Tenancies Act?",
+  "back": "At least 12 months since the last increase for that tenant in that unit, or since the unit was first rented to that tenant."
+ },
+ {
+  "id": 47,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How much notice must a landlord give to end a tenancy for the landlord's own use under an N12 notice?",
+  "back": "At least 60 days, where the landlord in good faith requires the unit for at least one year of residential occupation by the landlord, the landlord's spouse, or a child or parent of either."
+ },
+ {
+  "id": 48,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How much notice must a landlord give to end a tenancy for demolition, conversion or major repair under an N13 notice?",
+  "back": "At least 120 days, ending on the last day of a rental period or the end of the term, where the landlord needs vacant possession to demolish, convert, or carry out repairs requiring a building permit."
+ },
+ {
+  "id": 49,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How much notice must a landlord give to end a tenancy for persistent late payment of rent under an N8 notice?",
+  "back": "At least 60 days for a monthly or yearly tenancy or fixed term, and the termination date must be the last day of a rental period or the end of the term."
+ },
+ {
+  "id": 50,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How long does a condominium corporation have to provide a status certificate after receiving a request and fee?",
+  "back": "10 days. If the corporation fails to provide it in time, the certificate is deemed to state, among other things, that there are no unpaid common expenses."
+ },
+ {
+  "id": 51,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the maximum fee a condominium corporation can charge for a status certificate?",
+  "back": "$100, inclusive of all applicable taxes, covering all material required to be included in the certificate."
+ },
+ {
+  "id": 52,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the legal effect of a condominium status certificate on the corporation?",
+  "back": "It binds the corporation, as of the date it is given, with respect to the information it contains or is deemed to contain, as against a purchaser or mortgagee who relies on it."
+ },
+ {
+  "id": 53,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Does a buyer of an existing, resale, condominium unit have a statutory 10 day rescission right?",
+  "back": "No. The Condominium Act's 10 day rescission right applies only to a purchaser buying a new or proposed unit from a declarant, not to a resale purchase from an existing owner."
+ },
+ {
+  "id": 54,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Who has the statutory 10 day rescission right under the Condominium Act, and what triggers it?",
+  "back": "A purchaser of a new or proposed unit from a declarant, who receives a disclosure statement and condominium guide. A similar right applies within 10 days of a material change."
+ },
+ {
+  "id": 55,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How often must a condominium corporation conduct a reserve fund study?",
+  "back": "Every 3 years, running from the completion of the immediately preceding study, so the money and contributions can be tested for adequacy against major repair and replacement needs."
+ },
+ {
+  "id": 56,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What does every vendor of a new home warrant under the Ontario New Home Warranties Plan Act?",
+  "back": "That the home is built in a workmanlike manner free from material defects, is fit for habitation, and complies with the Ontario Building Code, plus other prescribed warranties."
+ },
+ {
+  "id": 57,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "From what date does the one year Tarion warranty period run?",
+  "back": "From the date the vendor's certificate specifies the home was completed for possession. Claims under the one year warranty must be made within one year after the warranty takes effect."
+ },
+ {
+  "id": 58,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What defects are covered by the Tarion two year warranty period?",
+  "back": "Water penetration through the basement, foundation or building envelope, defects in electrical, plumbing and heating systems, exterior cladding detachment or deterioration, and Building Code violations affecting health and safety."
+ },
+ {
+  "id": 59,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How long does a homeowner have to claim for a major structural defect under Tarion?",
+  "back": "Up to the seventh anniversary of the date of possession, for a home enrolled after December 31, 1990."
+ },
+ {
+  "id": 60,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the maximum Tarion deposit protection for a freehold home under a purchase agreement made on or after January 1, 2018?",
+  "back": "The greater of $60,000 and the lesser of 10 per cent of the sale price and $100,000."
+ },
+ {
+  "id": 61,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the maximum Tarion deposit protection for a condominium dwelling unit?",
+  "back": "$20,000, plus accrued interest on the net principal amount, under section 14(1) of the Ontario New Home Warranties Plan Act."
+ },
+ {
+  "id": 62,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What makes a property a matrimonial home under the Family Law Act?",
+  "back": "Any property in which a spouse has an interest that is, or at separation was, ordinarily occupied by both spouses as their family residence."
+ },
+ {
+  "id": 63,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What possession right do spouses have in a matrimonial home?",
+  "back": "Both spouses have an equal right of possession. If only one spouse has an ownership interest, the other's right is personal and ends when they cease to be spouses, absent an agreement or order."
+ },
+ {
+  "id": 64,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What must happen before a spouse can dispose of or encumber an interest in the matrimonial home?",
+  "back": "The other spouse must join in the instrument or consent, unless the other spouse has released Part II rights by agreement, a court has authorized the transaction, or a registered designation by both spouses names a different property instead."
+ },
+ {
+  "id": 65,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How is a good faith purchaser protected from an unauthorized disposition of a matrimonial home?",
+  "back": "The transaction is not set aside against a person who acquired the interest for value, in good faith, and without notice at the time that the property was a matrimonial home."
+ },
+ {
+  "id": 66,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "How can spouses designate a matrimonial home under the Family Law Act?",
+  "back": "One or both spouses may designate property in the prescribed form and register the designation. A designation by both spouses, once registered, removes matrimonial home status from other properties that would otherwise qualify."
+ },
+ {
+  "id": 67,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What spousal item must be confirmed on the closing agenda before registering a transfer?",
+  "back": "The transferor's spousal status, which appears as a Family Law Act statement in the electronic transfer, and where the property is a matrimonial home, the non-owning spouse's consent or joinder."
+ },
+ {
+  "id": 68,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What must a lawyer maintain regarding undertakings given or received on closing?",
+  "back": "A system to follow up on undertakings, especially mortgage discharge undertakings, and any post closing readjustment claim must be handled in good faith and reported to the title insurer if applicable."
+ },
+ {
+  "id": 69,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Is there a general statutory cap on mortgage interest rates in Canada?",
+  "back": "No. Under section 2 of the federal Interest Act, any person may stipulate for, allow and exact any rate of interest that is agreed on, except as otherwise provided by an Act of Parliament."
+ },
+ {
+  "id": 70,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What must a blended payment mortgage state before interest becomes chargeable, under the Interest Act?",
+  "back": "A statement showing the principal amount and the interest rate, calculated yearly or half yearly and not in advance, under section 6. Without it, no interest is chargeable at all."
+ },
+ {
+  "id": 71,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the five year redemption rule under the Ontario Mortgages Act?",
+  "back": "Where principal or interest is not payable until more than five years after the mortgage date, after those five years the person entitled to redeem can pay out the principal, interest due, and three months' further interest in lieu of notice."
+ },
+ {
+  "id": 72,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Who must be licensed under the Mortgage Brokerages, Lenders and Administrators Act, 2006?",
+  "back": "Anyone carrying on business as a mortgage brokerage, lender or administrator, and any individual dealing or trading in mortgages for remuneration on behalf of a licensed brokerage, unless an exemption applies."
+ },
+ {
+  "id": 73,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the HST rate that applies to a taxable supply of real property in Ontario?",
+  "back": "13 per cent, made up of the 5 per cent federal GST part and the 8 per cent provincial part."
+ },
+ {
+  "id": 74,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Does GST/HST normally apply to the sale of a used residential home by a non-builder owner?",
+  "back": "No. A sale of a residential complex by a person who is not a builder is an exempt supply, unless a specific exception applies, such as the seller having claimed an input tax credit on the complex."
+ },
+ {
+  "id": 75,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Is the sale of a new home by a builder taxable, and what can the buyer claim?",
+  "back": "Yes, it is a taxable supply and GST or the federal part of HST applies. An eligible buyer can then claim the new housing rebate to recover part of the tax."
+ },
+ {
+  "id": 76,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What must a purchaser withhold when buying Canadian real property from a non-resident vendor with no clearance certificate?",
+  "back": "25 per cent of the excess of the purchase cost over the certificate limit, remitted to the Receiver General within 30 days after the end of the month of acquisition, under section 116(5) of the Income Tax Act."
+ },
+ {
+  "id": 77,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What does the Law Society's Red Flags for Fraud in Real Estate Transactions guidance say about a red flag indicator?",
+  "back": "The presence of one or more red flags does not necessarily mean fraud is occurring, but it may merit further investigation by the lawyer."
+ },
+ {
+  "id": 78,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "Can a single lawyer normally act for both the transferor and transferee on a sale of Ontario real property?",
+  "back": "No. A single lawyer may act for both only in very limited exceptions the Law Society lists. Two lawyers in the same firm may act for each side under the two lawyer joint retainer rules."
+ },
+ {
+  "id": 79,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What must a real estate lawyer obtain about a client under By-Law 7.1 before acting?",
+  "back": "The client's full name, address, telephone number, and occupation, plus organizational details for a corporate client, and the lawyer must verify identity, especially when handling funds."
+ },
+ {
+  "id": 80,
+  "domain": "real_estate_transactions_and_closing",
+  "front": "What is the Document Registration Agreement, or DRA, used for in an Ontario electronic real estate closing?",
+  "back": "It is the standardized agreement governing the parties' relationship until all documents and funds have been exchanged and electronic registration is complete, since funds, keys and off title documents cannot move electronically."
+ },
+ {
+  "id": 81,
+  "domain": "title_registration_and_due_diligence",
+  "front": "What is the basic difference between title under the Registry Act and title under the Land Titles Act?",
+  "back": "Registry land is recorded by instrument and the lawyer must build up the chain of title by searching recorded instruments. Land Titles land is registered by parcel in a parcel register, with title backed by the Land Titles Assurance Fund."
+ },
+ {
+  "id": 82,
+  "domain": "title_registration_and_due_diligence",
+  "front": "How many years of chain of title must a lawyer prove on registry land?",
+  "back": "A person dealing with registry land need not show a good chain of title for more than 40 years immediately before the dealing. This is the Registry Act's title search period, section 112."
+ },
+ {
+  "id": 83,
+  "domain": "title_registration_and_due_diligence",
+  "front": "What is the parcel register?",
+  "back": "The land registrar's automated index for Land Titles land, kept under the property identifier assigned to each property. Every instrument affecting a property is entered against its own parcel, so a Land Titles search is a parcel search, not a 40 year chain search."
+ },
+ {
+  "id": 84,
+  "domain": "title_registration_and_due_diligence",
+  "front": "How does registry land become Land Titles land?",
+  "back": "The Land Titles Act gives the land registrar power to register registry land under the Act, a process called first registration. Once registered, later dealings on that land are registered and searched under the Land Titles Act."
+ },
+ {
+  "id": 85,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Once land is converted from registry to Land Titles, what changes for future title searches?",
+  "back": "The parcel register replaces the need to prove a 40 year chain of recorded instruments. Title is dealt with under the Land Titles Act going forward, with the Assurance Fund as the statutory backstop."
+ },
+ {
+  "id": 86,
+  "domain": "title_registration_and_due_diligence",
+  "front": "What is the Land Titles Assurance Fund topped up to, and from where?",
+  "back": "The Fund is continued under the Land Titles Act and is topped up from the Consolidated Revenue Fund whenever its balance falls below $1,000,000, under section 54."
+ },
+ {
+  "id": 87,
+  "domain": "title_registration_and_due_diligence",
+  "front": "On what grounds may a person claim compensation from the Land Titles Assurance Fund?",
+  "back": "Being wrongfully deprived of land because the land was brought under the Act, a fraudulent instrument was registered, or a registrar made a misdescription, omission or error, under section 57(4)."
+ },
+ {
+  "id": 88,
+  "domain": "title_registration_and_due_diligence",
+  "front": "What is the time limit to apply to the Director of Titles for compensation from the Land Titles Assurance Fund?",
+  "back": "The application must be made within six years from the time the loss was suffered, under section 57(6) of the Land Titles Act."
+ },
+ {
+  "id": 89,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Under the Land Titles Act, is a registered owner's title subject to a writ of execution against a prior owner?",
+  "back": "Only if a note of that writ was entered on the title register. The owner's own title is subject to enforceable writs recorded against that owner, under section 44(6)."
+ },
+ {
+  "id": 90,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Does an electronic land registration document need to be signed?",
+  "back": "No. Under Part III of the Land Registration Reform Act, an electronic document need not be in writing or signed by the parties, and it has the same effect as a signed written document, section 21."
+ },
+ {
+  "id": 91,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Who may submit a document for electronic registration or search the electronic land registration system?",
+  "back": "Only a person authorized by the Director of Land Registration. O. Reg. 19/99, section 2, requires authorization before a person may register or search electronically."
+ },
+ {
+  "id": 92,
+  "domain": "title_registration_and_due_diligence",
+  "front": "What must every electronic land registration document contain?",
+  "back": "The completion date, a statement that each party completing it has authority to do so, the legal description, the parties, an address for service, preparer and submitter contact information, and any information the regulation requires, under O. Reg. 19/99, section 4."
+ },
+ {
+  "id": 93,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Name two statements an electronic transfer must contain beyond the general document requirements.",
+  "back": "A statement of the consideration and a statement of the interest transferred are two of several transfer specific requirements under O. Reg. 19/99, section 5(1), which also requires age, Family Law Act spousal status, and transferee birth date statements."
+ },
+ {
+  "id": 94,
+  "domain": "title_registration_and_due_diligence",
+  "front": "What standard solicitor statement appears on most electronic transfers, and when is it not required?",
+  "back": "A statement that the transferor's and transferee's solicitors are not the same person, unless a listed alternative applies, such as an estate trustee to beneficiary transfer. It is not required for a transfer to or from a listed government body or for an easement transfer, O. Reg. 19/99, s. 5(2), (3)."
+ },
+ {
+  "id": 95,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Where are writs of execution against a person filed?",
+  "back": "With the sheriff, who maintains an electronic index. A writ binds personal property from the time it is filed and entered in that index, under section 10 of the Execution Act."
+ },
+ {
+  "id": 96,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Why is an executions search run close to closing and updated to the closing date?",
+  "back": "Registered land is not bound by a writ until the sheriff has complied with the notice requirements in section 10(4) of the Execution Act, and a sale before compliance is not valid against a good faith purchaser, Land Titles Act section 136."
+ },
+ {
+  "id": 97,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Why does a purchaser's lawyer obtain a municipal tax certificate?",
+  "back": "Because unpaid property taxes are a special lien on the land, ranking ahead of every claim except the Crown's. The certificate confirms the state of the tax account before closing, Municipal Act, 2001, section 349(3)."
+ },
+ {
+  "id": 98,
+  "domain": "title_registration_and_due_diligence",
+  "front": "What off title inquiry protects a purchaser from arrears on services like water or hydro?",
+  "back": "A utility status inquiry. The Law Society's residential real estate guidelines list utility status among the off title inquiries a lawyer discusses with the client alongside zoning, building searches and the tax account."
+ },
+ {
+  "id": 99,
+  "domain": "title_registration_and_due_diligence",
+  "front": "What does a zoning search or zoning memorandum confirm?",
+  "back": "The permitted use of the property, the applicable zone standards, and whether the building complies with the municipal zoning by-law made under section 34 of the Planning Act."
+ },
+ {
+  "id": 100,
+  "domain": "title_registration_and_due_diligence",
+  "front": "May a person construct or demolish a building without a permit in Ontario?",
+  "back": "No. Section 8(1) of the Building Code Act, 1992 requires the chief building official to issue a permit first, so a purchaser's lawyer checks municipal records for whether work was permitted and closed."
+ },
+ {
+  "id": 101,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Why are outstanding work orders a title risk for a purchaser?",
+  "back": "A building inspector who finds a Building Code contravention may order compliance, immediately or within a set time. Such orders can bind the owner and affect the use of the property, Building Code Act, 1992, section 12(2)."
+ },
+ {
+  "id": 102,
+  "domain": "title_registration_and_due_diligence",
+  "front": "What must a legal description entered on a Land Titles parcel comply with?",
+  "back": "Section 142 of the Land Titles Act, with survey, plan and land description requirements further prescribed by O. Reg. 43/96. This is why a lawyer decides early whether to advise the client to obtain a survey."
+ },
+ {
+  "id": 103,
+  "domain": "title_registration_and_due_diligence",
+  "front": "When title insurance is used instead of some off title searches, what must the lawyer still do?",
+  "back": "Tell the client which searches will not be done, check which off title matters the policy excludes, obtain waivers where appropriate, and personally review all search reports and the draft policy's exclusions and exceptions."
+ },
+ {
+  "id": 104,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Under section 50(3) of the Planning Act, what is prohibited on land not on a registered plan of subdivision?",
+  "back": "Conveying, mortgaging or charging the land, entering an agreement of sale and purchase, or granting a right in the land for 21 years or more, unless the land is described within a registered plan of subdivision or an exception applies."
+ },
+ {
+  "id": 105,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Where are writs of execution against a person filed, and why does that matter for a Land Titles search?",
+  "back": "Writs are filed with the sheriff and entered in an electronic index, and a writ binds personal property from the time it is filed and indexed, so a purchaser's lawyer searches the sheriff's index for every prior owner's name."
+ },
+ {
+  "id": 106,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Who may apply for a Planning Act consent?",
+  "back": "An owner, chargee or purchaser of the land, or a duly authorized agent. A purchaser is someone who signed an agreement of purchase and sale authorizing them to apply, under section 53(1) and 53(1.1)."
+ },
+ {
+  "id": 107,
+  "domain": "title_registration_and_due_diligence",
+  "front": "What happens to a conveyance made in contravention of Planning Act section 50?",
+  "back": "It does not create or convey any interest in the land at all, under section 50(21), unless the agreement was expressly made effective only if section 50 is complied with."
+ },
+ {
+  "id": 108,
+  "domain": "title_registration_and_due_diligence",
+  "front": "What test must be satisfied before a committee of adjustment authorizes a minor variance?",
+  "back": "In the committee's opinion the variance must be desirable for the appropriate development or use of the land, and the general intent and purpose of both the zoning by-law and the official plan must be maintained, Planning Act section 45(1)."
+ },
+ {
+  "id": 109,
+  "domain": "title_registration_and_due_diligence",
+  "front": "How does a minor variance differ from a consent?",
+  "back": "A minor variance changes how a zoning by-law applies to one property, such as a setback, while a consent severs land so it can be conveyed or dealt with separately as an approval that a plan of subdivision is not needed."
+ },
+ {
+  "id": 110,
+  "domain": "title_registration_and_due_diligence",
+  "front": "How long does a person have to appeal a committee of adjustment's minor variance decision?",
+  "back": "20 days from the decision. The applicant, the Minister, or a specified interested person or public body may appeal to the Tribunal by filing a notice with the committee's secretary treasurer and paying the fee, section 45(12)."
+ },
+ {
+  "id": 111,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Name three items a condominium status certificate must contain.",
+  "back": "The current common expenses for the unit, any reserve fund assessments against the unit and the reason for them, and any pending application to amend the declaration or by-laws, among the items listed in section 76(1)."
+ },
+ {
+  "id": 112,
+  "domain": "title_registration_and_due_diligence",
+  "front": "How many days does a condominium corporation have to give a status certificate after a request and fee?",
+  "back": "10 days. If it fails to do so, section 76(5) deems a certificate to have been given stating, among other things, that there are no unpaid common expenses and no reserve fund assessment since the current budget date."
+ },
+ {
+  "id": 113,
+  "domain": "title_registration_and_due_diligence",
+  "front": "What did the 2023 amendments to the Condominium Act, 1998 change?",
+  "back": "They amended the corporation's record keeping duties under section 55(1), part of the last set of in-force changes to the Act as of the current consolidation."
+ },
+ {
+  "id": 114,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Does a status certificate bind the condominium corporation?",
+  "back": "Yes, as of its date, as against a purchaser or mortgagee who relies on it. If it omits information it was required to contain, it is deemed to state that no such information exists, section 76(4) and (6)."
+ },
+ {
+  "id": 115,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Does a buyer of a resale condominium unit have a statutory 10 day rescission right?",
+  "back": "No. The 10 day rescission right applies only to a purchaser buying a new or proposed unit from a declarant. A resale buyer's protection is the contractual condition and the status certificate, not a statutory cooling off period."
+ },
+ {
+  "id": 116,
+  "domain": "title_registration_and_due_diligence",
+  "front": "From what point does the 10 day rescission period run on a new condominium unit purchase?",
+  "back": "From the latest of several listed events, such as receiving the disclosure statement. Notice of rescission must be received by the declarant or their solicitor within 10 days, and before the purchaser accepts a registerable deed, section 73."
+ },
+ {
+  "id": 117,
+  "domain": "title_registration_and_due_diligence",
+  "front": "What system operates Ontario's electronic land registration, and who may submit a document by direct electronic transmission?",
+  "back": "Ontario's electronic land registration system runs on Teraview, governed by Part III of the Land Registration Reform Act and O. Reg. 19/99 and O. Reg. 16/99, and only an authorized electronic document submitter may deliver a document directly."
+ },
+ {
+  "id": 118,
+  "domain": "title_registration_and_due_diligence",
+  "front": "After receiving a reserve fund study, how quickly must the board act?",
+  "back": "The board must review it and propose a funding plan within 120 days, send owners a notice summarizing the study and the plan within 15 days of proposing it, and implement the plan 30 days after that notice."
+ },
+ {
+  "id": 119,
+  "domain": "title_registration_and_due_diligence",
+  "front": "How long must a condominium corporation keep its records of status certificates?",
+  "back": "At least seven years from the date the certificate was issued, under O. Reg. 48/01, section 13(2), paragraph 5."
+ },
+ {
+  "id": 120,
+  "domain": "title_registration_and_due_diligence",
+  "front": "Besides an estate trustee's transfer to a beneficiary, in what other situations may one lawyer act for both transferor and transferee by registering a compliance with law statement?",
+  "back": "Transfers between related persons under section 251 of the Income Tax Act, a remote location with no other real estate lawyer available within 200 km, a change in legal tenure, and a severance of land, each supported by its own compliance with law statement."
+ },
+ {
+  "id": 121,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "Under the Construction Act, what percentage must a payer hold back from each payment on the contract price?",
+  "back": "10 per cent, retained from the price of services or materials actually supplied until all liens that may be claimed against the holdback have expired, been satisfied, or been otherwise provided for. Construction Act, s. 22(1)."
+ },
+ {
+  "id": 122,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "What is the finishing holdback under the Construction Act, and when does it start?",
+  "back": "Once a contract is certified or declared substantially performed but work remains, the payer must also retain 10 per cent of the price of the remaining services or materials, running from the date of substantial performance. Construction Act, s. 22(2)."
+ },
+ {
+  "id": 123,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "If a mortgage contains its own demand or notice provision before a power of sale, when may the mortgagee start another proceeding to enforce the mortgage?",
+  "back": "Not until the time named in the demand or notice has passed, unless a judge grants an order permitting an earlier proceeding, under section 42(1) of the Mortgages Act."
+ },
+ {
+  "id": 124,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "When does an unpreserved lien under the Construction Act expire?",
+  "back": "At the end of the 60 day period after the earlier of publication of a certificate or declaration of substantial performance, and completion, abandonment or termination of the contract. Missing this date is fatal to the lien. Construction Act, s. 31(2), (2.1), (3)."
+ },
+ {
+  "id": 125,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "How is a construction lien preserved?",
+  "back": "By registering a claim for lien on title in the proper land registry office where the lien attaches to the premises, or by giving a copy of the claim for lien to the owner where it does not, during supply or before the lien expires. Construction Act, s. 34(1)."
+ },
+ {
+  "id": 126,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "How long does a lien claimant have to perfect a preserved lien under the Construction Act, and what is the common wrong answer?",
+  "back": "90 days after the last day the lien could have been preserved. The old 45 day period no longer applies; any source or question stating 45 days is describing the former rule. Construction Act, s. 36(1), (2)."
+ },
+ {
+  "id": 127,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "How is a preserved construction lien perfected?",
+  "back": "Where the lien attaches to the premises, by commencing an action to enforce it and registering a certificate of action on title. Where it does not attach to the premises, by commencing the action alone. Construction Act, s. 36(3), (4)."
+ },
+ {
+  "id": 128,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "How soon after a contract is terminated must notice of termination be published under the Construction Act?",
+  "back": "No later than 7 days after termination, in the prescribed form and manner, by the owner, contractor, or other person whose lien is subject to expiry. The publication date is then treated as the termination date for expiry purposes. Construction Act, s. 31(6), (7)."
+ },
+ {
+  "id": 129,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "Under the Construction Act prompt payment rules, when must an owner pay a proper invoice?",
+  "back": "No later than 28 days after receiving the proper invoice from the contractor, unless the owner gives a notice of non payment. Construction Act, s. 6.4(1)."
+ },
+ {
+  "id": 130,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "Who must a mortgagee give the notice of exercising a power of sale to, and how may that notice be given?",
+  "back": "The mortgagor and the other persons listed in the Mortgages Act, including subsequent registered owners, encumbrancers, execution creditors and lien claimants, given by personal service or registered mail and deemed given on the day of mailing."
+ },
+ {
+  "id": 131,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "Under prompt payment rules, when must a contractor pay a subcontractor if the owner does not pay?",
+  "back": "No later than 35 days after the contractor gave the proper invoice to the owner, unless the contractor gives its own notice of non payment and undertakes to refer the matter to adjudication within 21 days of that notice. If the owner does pay, the subcontractor must be paid within 7 days. Construction Act, ss. 6.5(1), (4), (5)(a)(iii), (7)."
+ },
+ {
+  "id": 132,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "Under prompt payment rules, when must a subcontractor pay its own subcontractor if the contractor does not pay?",
+  "back": "No later than 42 days after the proper invoice was given to the owner. If the contractor does pay, the sub-subcontractor must be paid within 7 days of that payment. Construction Act, ss. 6.6(1), (5), (8)."
+ },
+ {
+  "id": 133,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "What interest rate applies to a late payment under the Construction Act prompt payment rules?",
+  "back": "The prejudgment interest rate under the Courts of Justice Act, or, if the contract specifies a different rate, the greater of the two. Construction Act, s. 6.9."
+ },
+ {
+  "id": 134,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "How long does a party have to refer a construction dispute about a contract to adjudication after the contract ends?",
+  "back": "No later than 90 days after the contract is completed, abandoned or terminated, unless the parties agree otherwise. Construction Act, s. 13.5(3)."
+ },
+ {
+  "id": 135,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "If the parties' chosen registry adjudicator does not consent within 4 days of a notice of adjudication, what happens?",
+  "back": "The party who gave the notice must ask the Authority to appoint a registry adjudicator, and the Authority must appoint one, subject to consent, no later than 7 days after receiving the request. Construction Act, s. 13.9(4), (5)."
+ },
+ {
+  "id": 136,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "How long does a construction adjudicator have to make a determination once the documents are received?",
+  "back": "No later than 30 days, subject to a 14 day extension with consent or a longer extension by written agreement. A determination made late is of no force or effect. Construction Act, s. 13.13(1), (2), (5)."
+ },
+ {
+  "id": 137,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "How binding is a construction adjudicator's determination, and who pays the costs?",
+  "back": "It binds the parties until a court determination, an arbitration determination, or a written agreement between them, and is admissible as evidence in court. Each party bears its own costs unless the adjudicator orders otherwise. Construction Act, ss. 13.15(1), 13.13(7), 13.16."
+ },
+ {
+  "id": 138,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "When does a mortgagee's statutory power of sale under section 24 of the Mortgages Act become exercisable?",
+  "back": "Any time after the expiration of 3 months from default in payment of money due under the mortgage, or after an omission to pay insurance the mortgagor was required to pay. It applies only where the mortgage itself contains no power of sale. Mortgages Act, ss. 24, 30."
+ },
+ {
+  "id": 139,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "In what order must money from a mortgagee's power of sale be applied under the Mortgages Act?",
+  "back": "Expenses, then interest and costs, then principal, then subsequent encumbrancers, then tenant rent deposits, then the balance to the mortgagor. Mortgages Act, s. 27."
+ },
+ {
+  "id": 140,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "How much written notice must a mortgagee give before selling under the statutory power of sale in the Mortgages Act?",
+  "back": "45 days, in the prescribed form, given in the manner required by Part III of the Act. This was raised from 35 days effective January 1, 2022. Mortgages Act, s. 26(1)."
+ },
+ {
+  "id": 141,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "Where a mortgage contains its own power of sale clause, what are the minimum default and notice periods under the Mortgages Act?",
+  "back": "The stated default must have continued for at least 15 days before notice may be given, and the sale may not occur until at least 35 days after the notice is given. Mortgages Act, s. 32."
+ },
+ {
+  "id": 142,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "How may a notice of exercising a power of sale be given under the Mortgages Act, and when is it deemed received?",
+  "back": "By personal service or by registered mail to the person's usual or last known address. A notice mailed in Ontario is deemed given on the day it was mailed. Mortgages Act, ss. 33, 34."
+ },
+ {
+  "id": 143,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "Under section 22 of the Mortgages Act, how can a mortgagor stop a sale or action before it is started?",
+  "back": "By performing the covenant or paying the amount due plus necessary expenses, which relieves the mortgagor from the consequences of the default. The mortgagor may also demand a written statement of the default, which the mortgagee must answer within 15 days. Mortgages Act, s. 22(1), (2)."
+ },
+ {
+  "id": 144,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "What happens if a mortgagee fails to properly answer a mortgagor's demand for a statement of default under section 22 of the Mortgages Act?",
+  "back": "If the mortgagee fails to answer, or answers incompletely or incorrectly without reasonable excuse, the mortgagee's enforcement rights are suspended until it complies. Mortgages Act, s. 22(3)."
+ },
+ {
+  "id": 145,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "Under section 23 of the Mortgages Act, what may a mortgagor do after an enforcement action has already started?",
+  "back": "Pay $100 into court as security for costs and apply to the court. On performing the covenant or paying what is due plus the costs of the action, the court must dismiss the action if judgment has not been recovered, or may stay proceedings if judgment has been recovered but no sale, possession or final foreclosure has occurred. Mortgages Act, s. 23(1)."
+ },
+ {
+  "id": 146,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "What is the difference between a power of sale and a judicial sale of mortgaged land in Ontario?",
+  "back": "A power of sale is exercised out of court under the mortgage or the Mortgages Act, subject to the notice rules. A judicial sale happens inside a mortgage action, where the court orders the sale and supervises the application of proceeds, under Rule 64 of the Rules of Civil Procedure."
+ },
+ {
+  "id": 147,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "In a Rule 64 foreclosure action, what must a defendant do to redeem instead of being foreclosed?",
+  "back": "Serve and file a request to redeem, Form 64A, within the time for delivering a statement of defence or before being noted in default. A defendant who instead wants a sale must serve and file a request for sale, Form 64F, in the same period. Rules of Civil Procedure, r. 64.03(4), (6)."
+ },
+ {
+  "id": 148,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "How is a final order of foreclosure obtained under Rule 64 once judgment for foreclosure has been signed?",
+  "back": "On motion to the court without notice, on default of payment under the judgment or the report on a reference. Judgment itself is signed as Form 64B, foreclosure with a reference, or Form 64C, immediate foreclosure, where a defendant noted in default has not filed a request to redeem. Rules of Civil Procedure, r. 64.03(9), (16)."
+ },
+ {
+  "id": 149,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "If a mortgagee becomes mortgagee in possession of a rented residential property, or takes title by foreclosure or power of sale, what is the mortgagee deemed to be?",
+  "back": "The landlord under the existing tenancy agreement. Mortgages Act, s. 66(1)."
+ },
+ {
+  "id": 150,
+  "domain": "mortgages_liens_and_real_estate_remedies",
+  "front": "Where a mortgage is not payable until more than five years after its date, what may the person entitled to redeem do once five years have passed?",
+  "back": "Pay the principal and interest then due plus three months further interest in lieu of notice, with no further interest chargeable, under the Ontario Mortgages Act rather than the federal Interest Act, and this rule does not apply to a corporate mortgagor."
+ },
+ {
+  "id": 151,
+  "domain": "wills_and_estate_planning",
+  "front": "What is the threshold formal requirement for a valid will under SLRA s.3?",
+  "back": "A will is valid only if it is in writing. This is the basic formal requirement that applies before any of the execution rules in section 4 come into play."
+ },
+ {
+  "id": 152,
+  "domain": "wills_and_estate_planning",
+  "front": "What three steps does SLRA s.4(2) require for a formally executed will?",
+  "back": "The testator signs at the end, or directs another to sign, the testator makes or acknowledges the signature before two witnesses present at the same time, and two of those witnesses then sign in the testator's presence."
+ },
+ {
+  "id": 153,
+  "domain": "wills_and_estate_planning",
+  "front": "When can a will in Ontario be signed and witnessed remotely by audio-visual technology?",
+  "back": "If at least one witness is a licensee under the Law Society Act, the signing and witnessing are contemporaneous, and any regulatory requirements are met. Identical copies may be signed in counterpart. This is permanent law, not a temporary measure."
+ },
+ {
+  "id": 154,
+  "domain": "wills_and_estate_planning",
+  "front": "Does Ontario law require a particular form of attestation clause on a witnessed will?",
+  "back": "No. SLRA s.4(6) states that where witnesses are required, no particular form of attestation clause is necessary for the will to be valid."
+ },
+ {
+  "id": 155,
+  "domain": "wills_and_estate_planning",
+  "front": "Where must a testator's signature appear for a will to satisfy SLRA s.7?",
+  "back": "At, after, following, under, beside or opposite the end of the will, so it is clear the testator meant to give effect to the writing as a will. Words placed after the signature get no effect."
+ },
+ {
+  "id": 156,
+  "domain": "wills_and_estate_planning",
+  "front": "What happens under SLRA s.12(1) to a gift left to a person who witnesses the will?",
+  "back": "The gift is void as it concerns that witness, the witness's spouse, or anyone claiming under them, although the witness remains competent to prove the execution of the will."
+ },
+ {
+  "id": 157,
+  "domain": "wills_and_estate_planning",
+  "front": "Name two ways a gift to an attesting witness can still be saved under SLRA s.12(3) and s.12(4).",
+  "back": "The Superior Court is satisfied the witness did not exercise improper or undue influence, or the will is also attested by at least two other witnesses not caught by the rule."
+ },
+ {
+  "id": 158,
+  "domain": "wills_and_estate_planning",
+  "front": "What formalities does a holograph will need under SLRA s.6?",
+  "back": "None beyond being wholly in the testator's own handwriting and signature. No witnesses and no other formality are required for a valid holograph will."
+ },
+ {
+  "id": 159,
+  "domain": "wills_and_estate_planning",
+  "front": "When can a person under 18 make a valid will in Ontario under SLRA s.8(1)?",
+  "back": "Only if the person is or has been married, is contemplating a named marriage that later occurs, belongs to the listed Canadian Forces component, or is a sailor at sea or on a voyage."
+ },
+ {
+  "id": 160,
+  "domain": "wills_and_estate_planning",
+  "front": "What power did the 2022 SLRA reform add in section 21.1(1)?",
+  "back": "A substantial compliance power letting the Superior Court order that a document is as valid as a properly executed will, if satisfied it sets out the deceased's testamentary intentions, for deaths on or after 2022-01-01."
+ },
+ {
+  "id": 161,
+  "domain": "wills_and_estate_planning",
+  "front": "Can the SLRA s.21.1 substantial compliance power be used to validate an electronic will?",
+  "back": "No. Section 21.1(2) makes the power expressly subject to section 31 of the Electronic Commerce Act, 2000, so it cannot save an electronic document as a will."
+ },
+ {
+  "id": 162,
+  "domain": "wills_and_estate_planning",
+  "front": "Does the Succession Law Reform Act itself contain a section on rectifying a will?",
+  "back": "No. There is no rectification section in the SLRA. A rectification claim is instead started under Rule 14.05(3)(c) of the Rules of Civil Procedure."
+ },
+ {
+  "id": 163,
+  "domain": "wills_and_estate_planning",
+  "front": "List the three ways a will can be revoked under SLRA s.15.",
+  "back": "Another will made under Part I, a written document declaring intent to revoke and made with will formalities, or burning, tearing or otherwise destroying the will with intent to revoke it."
+ },
+ {
+  "id": 164,
+  "domain": "wills_and_estate_planning",
+  "front": "Does getting married revoke an existing will in Ontario today?",
+  "back": "No. Former SLRA s.16, which revoked a will on the testator's marriage, was repealed effective 2022-01-01. A testator who marries must make a new will to benefit a new spouse."
+ },
+ {
+  "id": 165,
+  "domain": "wills_and_estate_planning",
+  "front": "What happens to a gift to a former spouse if the testator's marriage later ends in divorce?",
+  "back": "Unless the will shows a contrary intention, SLRA s.17(1) treats the former spouse as having died before the testator, revoking any gift, executor appointment or power of appointment given to them."
+ },
+ {
+  "id": 166,
+  "domain": "wills_and_estate_planning",
+  "front": "Since 2022, does separation alone (without divorce) also revoke gifts to a spouse?",
+  "back": "Yes. SLRA s.17(3) and s.17(4) apply the same revocation result on death if the spouses were separated, as statutorily defined, at the time of the testator's death."
+ },
+ {
+  "id": 167,
+  "domain": "wills_and_estate_planning",
+  "front": "What formality does an alteration made to a will after it was signed require under SLRA s.18(1)?",
+  "back": "The same formalities needed to make a will, or the testator's signature placed in the margin near the alteration, or at the end of a memorandum referring to it."
+ },
+ {
+  "id": 168,
+  "domain": "wills_and_estate_planning",
+  "front": "On intestacy under SLRA s.44, who takes the estate if the deceased leaves a spouse and no issue?",
+  "back": "The spouse takes the whole estate absolutely, with no share going to the deceased's parents, siblings or other relatives."
+ },
+ {
+  "id": 169,
+  "domain": "wills_and_estate_planning",
+  "front": "What is Ontario's current preferential share amount on intestacy, and since when has it applied?",
+  "back": "$350,000, for estates of persons who died on or after March 1, 2021. It was $200,000 for deaths before that date. Set by O. Reg. 54/95, as amended by O. Reg. 122/21."
+ },
+ {
+  "id": 170,
+  "domain": "wills_and_estate_planning",
+  "front": "In a partial intestacy, how does SLRA s.45(3) top up a surviving spouse to the preferential share?",
+  "back": "If the will gives the spouse nothing, or less than the preferential share, the spouse takes the shortfall from the intestate property. The top-up rule does not apply if the will already gives more."
+ },
+ {
+  "id": 171,
+  "domain": "wills_and_estate_planning",
+  "front": "Under SLRA s.46(1), how is the residue split on intestacy between a spouse and one child?",
+  "back": "After the preferential share is paid, the spouse takes one half of the residue and the surviving child takes the other half."
+ },
+ {
+  "id": 172,
+  "domain": "wills_and_estate_planning",
+  "front": "Under SLRA s.46(2), how is the residue split on intestacy between a spouse and more than one child?",
+  "back": "After the preferential share is paid, the spouse takes one third of the residue and the children share the remaining two thirds equally."
+ },
+ {
+  "id": 173,
+  "domain": "wills_and_estate_planning",
+  "front": "On intestacy with no surviving spouse, how is the estate divided among the deceased's issue under SLRA s.47(1)?",
+  "back": "Equally among the issue of the nearest degree who are surviving, with a predeceased issue's share passing to their own issue per stirpes."
+ },
+ {
+  "id": 174,
+  "domain": "wills_and_estate_planning",
+  "front": "What happens to an Ontario intestate estate with no spouse, issue, parent, sibling, nephew, niece or next of kin?",
+  "back": "Under SLRA s.47(7), the property escheats to the Crown and the Escheats Act, 2015 applies."
+ },
+ {
+  "id": 175,
+  "domain": "wills_and_estate_planning",
+  "front": "Since 2022, does a separated spouse inherit anything under Ontario's intestacy rules?",
+  "back": "No. SLRA s.43.1 excludes a spouse from any Part II intestacy entitlement if the spouses were separated, using the statutory separation test, at the time of death."
+ },
+ {
+  "id": 176,
+  "domain": "wills_and_estate_planning",
+  "front": "Who qualifies as a \"dependant\" who may claim support from an estate under SLRA s.57(1)?",
+  "back": "The deceased's spouse, parent, child or sibling, but only if the deceased was supporting them, or legally obliged to support them, immediately before death. Child and parent extend to grandchildren, grandparents and settled family relationships."
+ },
+ {
+  "id": 177,
+  "domain": "wills_and_estate_planning",
+  "front": "What is the limitation period for a dependant support application under SLRA s.61(1)?",
+  "back": "No later than six months after the grant of letters probate or letters of administration, although the court may allow a later application as to any still-undistributed portion of the estate."
+ },
+ {
+  "id": 178,
+  "domain": "wills_and_estate_planning",
+  "front": "Name three of the factors a court must weigh in a dependant support claim under SLRA s.62(1).",
+  "back": "Among others: the dependant's current and future assets and means, capacity for self-support, age and health, accustomed standard of living, and the closeness and duration of the relationship with the deceased."
+ },
+ {
+  "id": 179,
+  "domain": "wills_and_estate_planning",
+  "front": "What is a suspensory order under SLRA s.59(1)?",
+  "back": "An order, made on application by or for a dependant, suspending the administration of the estate wholly or partly, for whatever time and extent the court decides."
+ },
+ {
+  "id": 180,
+  "domain": "wills_and_estate_planning",
+  "front": "When does Ontario's estate administration tax become payable under EATA s.2(1)?",
+  "back": "Immediately upon the issuance of an estate certificate, payable by the estate representative only in that representative capacity, never personally."
+ },
+ {
+  "id": 181,
+  "domain": "wills_and_estate_planning",
+  "front": "What is the estate administration tax exemption and rate for a certificate applied for on or after January 1, 2020?",
+  "back": "Estates valued at $50,000 or less are exempt. Above that, the tax is $15 for each $1,000, or part thereof, of value over $50,000. EATA s.2(2)(b) and s.2(6.1)."
+ },
+ {
+  "id": 182,
+  "domain": "wills_and_estate_planning",
+  "front": "How is estate value rounded when calculating estate administration tax?",
+  "back": "It is rounded up to the nearest $1,000. An estate worth $239,250 is taxed as if worth $240,000, giving $2,850 in tax on the $190,000 above the $50,000 threshold."
+ },
+ {
+  "id": 183,
+  "domain": "wills_and_estate_planning",
+  "front": "Name three assets excluded from the \"value of the estate\" for estate administration tax.",
+  "back": "Assets passing to a surviving joint owner by survivorship, real estate located outside Ontario, and registered plans such as RRSPs, RRIFs and TFSAs with a valid beneficiary designation."
+ },
+ {
+  "id": 184,
+  "domain": "wills_and_estate_planning",
+  "front": "Can funeral expenses or a lawyer's fees be deducted when calculating the value of the estate for tax purposes?",
+  "back": "No. Neither funeral expenses nor lawyer's fees can be deducted. Only an encumbrance such as a mortgage on included real property can be deducted from that property's value."
+ },
+ {
+  "id": 185,
+  "domain": "wills_and_estate_planning",
+  "front": "What is the deadline for filing the initial estate information return with the Ministry of Finance?",
+  "back": "Within 180 calendar days after the estate certificate is issued, extended to the next business day if it falls on a weekend or holiday. It must be filed even if the estate's calculated value is $0."
+ },
+ {
+  "id": 186,
+  "domain": "wills_and_estate_planning",
+  "front": "Within what time must an amended estate information return be filed after learning it was incorrect?",
+  "back": "Within 60 calendar days of becoming aware of the error, provided that awareness arises within four years of the estate certificate's issuance."
+ },
+ {
+  "id": 187,
+  "domain": "wills_and_estate_planning",
+  "front": "What is the penalty for making a false or misleading statement in an estate information return under EATA s.5.1?",
+  "back": "A fine of at least $1,000, and up to twice the tax payable if that is greater than $1,000, or imprisonment for up to two years, or both."
+ },
+ {
+  "id": 188,
+  "domain": "wills_and_estate_planning",
+  "front": "Does interest accrue on unpaid estate administration tax?",
+  "back": "No. The Ministry of Finance's own guide states that no interest will be assessed on unpaid estate administration tax."
+ },
+ {
+  "id": 189,
+  "domain": "wills_and_estate_planning",
+  "front": "Within what time may the Minister assess or reassess estate administration tax under EATA s.4.5(1)?",
+  "back": "Within four years after the day the tax became payable, which is the day the estate certificate was issued."
+ },
+ {
+  "id": 190,
+  "domain": "wills_and_estate_planning",
+  "front": "When can the Minister assess or reassess estate administration tax beyond the four year limit?",
+  "back": "At any time the Minister considers reasonable, if a failure to give required information is established, or a misrepresentation from neglect, carelessness, wilful default or fraud is established. EATA s.4.5(2)."
+ },
+ {
+  "id": 191,
+  "domain": "wills_and_estate_planning",
+  "front": "What is the current dollar limit for using Ontario's small estate certificate procedure?",
+  "back": "$150,000. Estates at or below this amount may use the simplified Rule 74.1 process instead of the full Rule 74 certificate of appointment procedure. O. Reg. 110/21."
+ },
+ {
+  "id": 192,
+  "domain": "wills_and_estate_planning",
+  "front": "How long must an applicant wait after giving notice before filing a small estate certificate application?",
+  "back": "At least 30 days after sending the application and the relevant part of the will to every person entitled to share in the distribution, including charities and contingent beneficiaries."
+ },
+ {
+  "id": 193,
+  "domain": "wills_and_estate_planning",
+  "front": "What form must a named estate trustee who will not act as executor file?",
+  "back": "A renunciation in Form 74G, required from any living person named in the will as estate trustee who has not joined the application and is entitled to act."
+ },
+ {
+  "id": 194,
+  "domain": "wills_and_estate_planning",
+  "front": "How long does a notice of objection to a certificate of appointment (Form 75.1) remain in effect?",
+  "back": "It expires three years after it is filed. Any person appearing to have a financial interest in the estate may file one before a certificate is issued."
+ },
+ {
+  "id": 195,
+  "domain": "wills_and_estate_planning",
+  "front": "What is the statutory basis for an estate trustee's compensation in Ontario?",
+  "back": "A fair and reasonable allowance for the care, pains, trouble and time spent, as a judge of the Superior Court of Justice allows, typically fixed on passing the accounts. Trustee Act s.61(1)."
+ },
+ {
+  "id": 196,
+  "domain": "wills_and_estate_planning",
+  "front": "What is the common \"2.5 percent\" compensation guideline for estate trustees, and is it a fixed rate?",
+  "back": "A court-developed starting point of 2.5 percent each on capital receipts, revenue receipts, capital disbursements and revenue disbursements, then checked against discretionary factors. It is a case law guideline, not a fixed statutory rate."
+ },
+ {
+  "id": 197,
+  "domain": "wills_and_estate_planning",
+  "front": "How does an attorney's compensation under a continuing power of attorney for property differ from a court-fixed estate trustee allowance?",
+  "back": "The attorney takes annual compensation under a prescribed fee scale, subject to the power of attorney's own terms, while the estate trustee's compensation is fixed by the Superior Court as a fair and reasonable allowance. SDA s.40."
+ },
+ {
+  "id": 198,
+  "domain": "wills_and_estate_planning",
+  "front": "At what age is a person presumed capable of entering into a contract under SDA s.2(1)?",
+  "back": "18 or older. A person may rely on that presumption unless there are reasonable grounds to believe the other person is incapable."
+ },
+ {
+  "id": 199,
+  "domain": "wills_and_estate_planning",
+  "front": "What is the SDA test for incapacity to manage property under section 6?",
+  "back": "Being unable to understand information relevant to a decision about managing property, or being unable to appreciate the reasonably foreseeable consequences of a decision or of failing to decide."
+ },
+ {
+  "id": 200,
+  "domain": "wills_and_estate_planning",
+  "front": "Name two things a person must know or appreciate to be capable of giving a continuing power of attorney for property under SDA s.8(1).",
+  "back": "Among others: knowing what property he or she has and its approximate value, knowing the attorney must account for dealings, and appreciating that the attorney could misuse the authority given."
+ },
+ {
+  "id": 201,
+  "domain": "wills_and_estate_planning",
+  "front": "How many witnesses does a continuing power of attorney for property require, and who is barred from witnessing under SDA s.10?",
+  "back": "Two witnesses are required. The attorney, the attorney's spouse, the grantor's spouse, the grantor's child, a person under guardianship, and a person under 18 must not act as witnesses."
+ },
+ {
+  "id": 202,
+  "domain": "wills_and_estate_planning",
+  "front": "Name three events that terminate a continuing power of attorney for property under SDA s.12.",
+  "back": "The attorney's death, incapacity or resignation, the court appointing a guardian of property for the grantor, the grantor executing a new continuing power of attorney, a written revocation, or the grantor's death."
+ },
+ {
+  "id": 203,
+  "domain": "wills_and_estate_planning",
+  "front": "What is the SDA test for incapacity for personal care under section 45?",
+  "back": "Being unable to understand information relevant to a decision about health care, nutrition, shelter, clothing, hygiene or safety, or unable to appreciate the reasonably foreseeable consequences of that decision."
+ },
+ {
+  "id": 204,
+  "domain": "wills_and_estate_planning",
+  "front": "Does the Substitute Decisions Act require a power of attorney witness to be a \"trained witness\"?",
+  "back": "No such requirement exists anywhere in the SDA. The only special witness rule is that, for remote execution, at least one witness must be a Law Society Act licensee."
+ },
+ {
+  "id": 205,
+  "domain": "wills_and_estate_planning",
+  "front": "What five elements make up the modern Ontario formulation of a \"sound disposing mind\" for testamentary capacity?",
+  "back": "Understanding the nature and effect of a will, recollecting the nature and extent of one's property, understanding what is being given, remembering likely beneficiaries, and understanding claims of persons being excluded. From Banks v. Goodfellow, applied in McGrath v. Joy."
+ },
+ {
+  "id": 206,
+  "domain": "wills_and_estate_planning",
+  "front": "Under Vout v. Hay, what happens to the burden of proof when suspicious circumstances surround a will?",
+  "back": "The burden shifts to the propounder of the will, who must prove knowledge and approval of its contents and, where capacity itself is called into question, must prove testamentary capacity on a balance of probabilities."
+ },
+ {
+  "id": 207,
+  "domain": "wills_and_estate_planning",
+  "front": "Under Family Law Act s.6, what choice must a surviving spouse make when the deceased leaves a will?",
+  "back": "The spouse must elect either to take the gifts given under the will or to receive the equalization of net family property entitlement under section 5 instead."
+ },
+ {
+  "id": 208,
+  "domain": "wills_and_estate_planning",
+  "front": "What is the deadline for a surviving spouse's election under Family Law Act s.6, and what happens if it is missed?",
+  "back": "The election must be filed with the Estate Registrar for Ontario within six months of the death. Missing the deadline deems the spouse to have elected to take under the will, unless the court orders otherwise."
+ },
+ {
+  "id": 209,
+  "domain": "wills_and_estate_planning",
+  "front": "Under FLA s.26(1), what happens to a matrimonial home held in joint tenancy with a third person when the owning spouse dies?",
+  "back": "The joint tenancy is deemed to have been severed immediately before the time of death, so the deceased spouse's interest falls into the estate rather than passing by survivorship to the third person."
+ },
+ {
+  "id": 210,
+  "domain": "wills_and_estate_planning",
+  "front": "Under the deemed disposition rule in ITA s.70(5), what is a taxpayer treated as doing immediately before death?",
+  "back": "The taxpayer is deemed to have disposed of each capital property for proceeds equal to its fair market value immediately before death, and the person who acquires it is deemed to acquire it at that same value."
+ },
+ {
+  "id": 211,
+  "domain": "wills_and_estate_planning",
+  "front": "How does the spousal rollover in ITA s.70(6) change the deemed disposition on death?",
+  "back": "Property transferred to a surviving spouse, common-law partner, or a qualifying spousal trust rolls over at adjusted cost base instead of fair market value, so no capital gain arises on the death itself."
+ },
+ {
+  "id": 212,
+  "domain": "wills_and_estate_planning",
+  "front": "Does the Income Tax Act provide a general rollover for ordinary small business corporation shares passing to a child on death?",
+  "back": "No. The death rollovers to a child are limited to farm and fishing property and shares of a family farm or fishing corporation. Ordinary small business shares face the regular deemed disposition rule in ITA s.70(5)."
+ },
+ {
+  "id": 213,
+  "domain": "wills_and_estate_planning",
+  "front": "Under ITA s.159(2), what must an estate trustee obtain before distributing property to beneficiaries?",
+  "back": "A clearance certificate from the Minister certifying that all amounts for which the trustee is or may become liable have been paid or secured, or the trustee becomes personally liable for unpaid amounts."
+ },
+ {
+  "id": 214,
+  "domain": "wills_and_estate_planning",
+  "front": "What are the three certainties required for a valid express trust at common law?",
+  "back": "Certainty of intention, meaning the settlor intended to create a trust, certainty of subject matter, meaning the trust property is identified, and certainty of objects, meaning the beneficiaries or charitable purpose are identified."
+ },
+ {
+  "id": 215,
+  "domain": "wills_and_estate_planning",
+  "front": "Why do many Ontario estate plans use a primary will and a secondary will (the multiple wills strategy)?",
+  "back": "So estate administration tax applies only to assets covered by the certificate applied for, keeping assets that do not need probate, such as private corporation shares, in a secondary will that is never presented to the court."
+ },
+ {
+  "id": 216,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under EATA s. 2(2)(b) and s. 2(6.1), what is the estate administration tax rate for an application made on or after January 1, 2020?",
+  "back": "There is no tax on the first $50,000 of the estate's value. Above $50,000, the tax is $15 for each $1,000, or part of $1,000, by which the value exceeds $50,000."
+ },
+ {
+  "id": 217,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "An estate is valued at $239,250. How is estate administration tax calculated, and what is the total tax?",
+  "back": "The value is rounded up to the nearest $1,000, so $239,250 becomes $240,000. Tax is $15 per $1,000 on the $190,000 above $50,000, giving $2,850. The first $50,000 is taxed at $0."
+ },
+ {
+  "id": 218,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "When does an estate become exempt from estate administration tax entirely?",
+  "back": "For an application made on or after January 1, 2020, an estate is exempt if the value of the estate does not exceed $50,000, under EATA s. 2(2)(b)."
+ },
+ {
+  "id": 219,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "When does estate administration tax become payable to the Crown?",
+  "back": "Immediately upon the issuance of an estate certificate, under EATA s. 2(1). The tax is payable by the estate representative only in that representative capacity, not personally."
+ },
+ {
+  "id": 220,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "List three assets included in the value of the estate for estate administration tax, and three assets excluded.",
+  "back": "Included: Ontario real estate less encumbrances, bank accounts, and RRSPs or RRIFs with no beneficiary designation. Excluded: assets passing by joint ownership with survivorship, real estate outside Ontario, and RRSPs, RRIFs or TFSAs with a valid beneficiary designation."
+ },
+ {
+  "id": 221,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Name two expenses that cannot be deducted from the value of the estate for estate administration tax purposes.",
+  "back": "Funeral expenses and lawyer's fees cannot be deducted. Other non-deductible items include loans, credit card debt and real estate commissions. Only an encumbrance, such as a mortgage, on included real property may be deducted."
+ },
+ {
+  "id": 222,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "What is the deadline for filing the initial estate information return, and what happens if the calculated estate value is $0?",
+  "back": "The return must be received by the Ministry of Finance within 180 calendar days after the estate certificate is issued, under EATA s. 4.1. A return must still be filed even if the calculated value of the estate is $0."
+ },
+ {
+  "id": 223,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "An estate trustee discovers a previously unreported asset after applying for probate. What deadline applies to the amended estate information return?",
+  "back": "An amended return must be received by the Ministry of Finance within 60 calendar days after the estate trustee becomes aware the original return was incorrect or incomplete, under EATA s. 4.1 and s. 4.9."
+ },
+ {
+  "id": 224,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "What is the penalty under EATA s. 5.1 for failing to comply with the information duty or filing a false statement?",
+  "back": "A fine of at least $1,000, up to twice the tax payable by the estate if that is greater than $1,000, or imprisonment for up to two years, or both."
+ },
+ {
+  "id": 225,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Within what time limit may the Minister of Revenue reassess estate administration tax under EATA s. 4.5(1), and what removes that limit?",
+  "back": "The Minister generally has four years from the day the tax became payable, which is the day the estate certificate was issued. The limit does not apply if the representative failed to comply with s. 4.1 or made a misrepresentation attributable to neglect, carelessness, wilful default or fraud."
+ },
+ {
+  "id": 226,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "If an applicant for probate can only estimate the estate's value, what undertaking must be filed with the deposit under EATA s. 3?",
+  "back": "A signed undertaking to file a sworn statement of the actual total value and pay any additional tax owing within six months after giving the undertaking."
+ },
+ {
+  "id": 227,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under Rule 74.1 of the Rules of Civil Procedure, what is the current dollar limit for the small estate certificate procedure?",
+  "back": "$150,000. This is prescribed by O. Reg. 110/21 under the Estates Act, and is the dollar figure that defines a small estate under Estates Act s. 1(1)."
+ },
+ {
+  "id": 228,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Before an application for a small estate certificate may be filed, what waiting period must have passed under Rule 74.1.03?",
+  "back": "At least 30 days after the applicant has sent the application and the relevant part of the will to every person entitled to share in the distribution, including contingent beneficiaries and charities."
+ },
+ {
+  "id": 229,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "New assets are found after a small estate certificate has already issued, and the estate is still under the small estate limit. What must the trustee do?",
+  "back": "Apply for an amended small estate certificate in Form 74.1E. The original certificate is deemed revoked when the amended certificate is issued, under Rule 74.1.05."
+ },
+ {
+  "id": 230,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "New assets discovered after issuance push an estate above the small estate limit. What must the estate trustee do, under Rule 74.1.06?",
+  "back": "Apply for a full certificate of appointment of estate trustee under Rule 74 instead. The small estate certificate is deemed revoked once the new full certificate is issued."
+ },
+ {
+  "id": 231,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under Rule 74.04(1), a person named as estate trustee in a will chooses not to join the application. What document must that person provide?",
+  "back": "A renunciation in Form 74G, provided that person is entitled to apply and has not joined the application."
+ },
+ {
+  "id": 232,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "On an intestacy, who must sign a consent under Form 74G before a person can be appointed estate trustee without a will?",
+  "back": "Persons entitled to share in the distribution who together hold a majority interest in the value of the assets at the date of death, under Rule 74.04(1)(f)."
+ },
+ {
+  "id": 233,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "What is a notice of objection under Rule 75.03, and how long does it last?",
+  "back": "A Form 75.1 notice filed by anyone with a financial interest in the estate, at any time before a certificate of appointment is issued, stating the nature of their interest and objection. It expires three years after filing."
+ },
+ {
+  "id": 234,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "After being served with a notice to objector, what must an objector file within 20 days under Rule 75.03?",
+  "back": "A notice of appearance in Form 75.4. If it is not filed within 20 days, the application proceeds as if no notice of objection had ever been filed."
+ },
+ {
+  "id": 235,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "On what three grounds may the court revoke an already-issued certificate of appointment of estate trustee under Rule 75.04?",
+  "back": "The certificate was issued in error or as a result of fraud on the court, the appointment is no longer effective, or for any other reason the court considers sufficient."
+ },
+ {
+  "id": 236,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "What is a request for notice under Rule 74.03, and how long is it valid?",
+  "back": "A Form 74P filed with the registrar before a certificate is issued, requiring notice to be given to the requester of steps in the proceeding. It expires three years after filing."
+ },
+ {
+  "id": 237,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under Trustee Act s. 53, what protection does advertising for creditors give an estate trustee before distributing the estate?",
+  "back": "If the trustee gives the notices that a court would direct in an administration suit, inviting creditors to claim by a stated date, the trustee may distribute having regard only to claims of which the trustee then has notice, and is not personally liable to a creditor who claims later."
+ },
+ {
+  "id": 238,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "An estate trustee advertised for creditors under Trustee Act s. 53 and distributed the estate. A creditor with no earlier notice then comes forward. What remedy, if any, remains for that creditor?",
+  "back": "The trustee is not personally liable for the distributed assets, but the creditor may still trace and follow the assets into the hands of the persons who received them."
+ },
+ {
+  "id": 239,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "What must an estate trustee obtain from the CRA before distributing an estate, and what is the consequence of distributing without it?",
+  "back": "A clearance certificate under ITA s. 159(2), confirming all income tax amounts owed have been paid or secured. A trustee who distributes without it is personally liable for the unpaid tax, up to the value of the property distributed."
+ },
+ {
+  "id": 240,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Is estate administration tax a personal liability of the estate trustee, or a liability payable only in the trustee's representative capacity?",
+  "back": "It is payable by the estate representative only in that representative capacity, under EATA s. 2(8), unlike unpaid income tax distributed without a clearance certificate, which can create personal liability."
+ },
+ {
+  "id": 241,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under the Trustee Act, what allowance is a trustee, guardian or personal representative entitled to for their work on an estate?",
+  "back": "A fair and reasonable allowance for the care, pains and trouble, and the time spent, fixed by a judge of the Superior Court of Justice, under Trustee Act s. 61(1). This right does not apply if the trust instrument already fixes the compensation."
+ },
+ {
+  "id": 242,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "What is the common law compensation guideline courts use to assess an estate trustee's fee under Trustee Act s. 61(1)?",
+  "back": "A starting point of about 2.5 percent each of capital receipts, revenue receipts, capital disbursements and revenue disbursements, sometimes with an added annual care and management fee. The court checks this against the estate's size, complexity, care shown, time spent, skill shown and success of the administration."
+ },
+ {
+  "id": 243,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Is the estate trustee compensation guideline in Trustee Act s. 61(1) a fixed statutory rate?",
+  "back": "No. It is a court-developed guideline, not a statutory percentage. Courts may award more or less than the guideline produces after weighing the discretionary factors in each case."
+ },
+ {
+  "id": 244,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "How is compensation for an attorney under a continuing power of attorney for property different from estate trustee compensation?",
+  "back": "The attorney may take annual compensation under a prescribed fee scale, monthly, quarterly or annually, without a court application, under SDA s. 40. More than the fee scale requires written consent of the Public Guardian and Trustee and the person's guardian or attorney for personal care, or court approval if the Public Guardian and Trustee is the attorney."
+ },
+ {
+  "id": 245,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "On an application to pass estate accounts under Rule 74.18, how far in advance must the notice of application be served on a person served within Ontario?",
+  "back": "At least 60 days before the hearing date. A person served outside Ontario must be served at least 75 days before the hearing."
+ },
+ {
+  "id": 246,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under Rule 74.18, how far in advance of the hearing must a notice of objection to accounts be served and filed?",
+  "back": "At least 35 days before the hearing date, using Form 74.45."
+ },
+ {
+  "id": 247,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "On a passing of accounts, what can the judge order if misconduct, neglect or default by the personal representative caused a financial loss to the estate?",
+  "back": "The judge may order the personal representative to pay damages personally, under Estates Act s. 49. The judge has jurisdiction to make full inquiry into the property and its administration and disbursement."
+ },
+ {
+  "id": 248,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "An executor is also named trustee of a continuing trust in the will. Can that person be required to account for the trusteeship separately from the executorship?",
+  "back": "Yes. Under Estates Act s. 48, an executor who is also a trustee may be required to account for the trusteeship in the same manner as for the executorship."
+ },
+ {
+  "id": 249,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "What are the three certainties required for a valid express trust?",
+  "back": "Certainty of intention, that the settlor genuinely intended to create a trust; certainty of subject matter, that the trust property is clearly identified; and certainty of objects, that the beneficiaries or charitable purpose are clearly identified. A trust missing any one fails."
+ },
+ {
+  "id": 250,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "State the rule in Saunders v. Vautier.",
+  "back": "Where a beneficiary is absolutely entitled to the trust property, has full legal capacity, and is either the sole person interested or acting with every other interested person, the beneficiary may require the trustee to transfer the property outright and end the trust, regardless of the terms of the trust instrument."
+ },
+ {
+  "id": 251,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under the Perpetuities Act, what is the general perpetuity period, and what is the fallback where there is no qualifying life in being?",
+  "back": "A life or lives in being plus 21 years is the general period. Where there is no life in being that limits the vesting period, the fallback perpetuity period is 21 years alone. There is no flat 21 year rule applied to every trust."
+ },
+ {
+  "id": 252,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under Perpetuities Act s. 18(1), what type of trust falls outside the rules against perpetuities entirely?",
+  "back": "A trust of a plan, trust or fund established to provide pensions, retirement allowances, annuities, or sickness, death or other benefits to employees, their surviving spouses, dependants or other beneficiaries."
+ },
+ {
+  "id": 253,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "What is a Henson trust, and why is it used instead of an outright inheritance for a beneficiary receiving ODSP?",
+  "back": "A fully discretionary trust for a person with a disability, giving the beneficiary no enforceable right to any payment. Because the beneficiary has no available beneficial interest, the trust capital is not counted against the ODSP asset limit, unlike an outright inheritance, which is first counted as income and then as an asset."
+ },
+ {
+  "id": 254,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "What is the current ODSP asset limit for a single recipient, and how much income from a trust is exempt in a 12 month period?",
+  "back": "$40,000 for a single recipient under O. Reg. 222/98. Payments actually made from a trust, life insurance or gifts are exempt from being counted as income up to a maximum of $10,000 for any 12 month period."
+ },
+ {
+  "id": 255,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under Trustee Act s. 27, what standard of care applies to a trustee investing trust property under the prudent investor rule?",
+  "back": "The trustee must exercise the care, skill, diligence and judgment that a prudent investor would exercise in making investments, and may invest in any form of property a prudent investor might invest in."
+ },
+ {
+  "id": 256,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Name three of the listed criteria a trustee must consider under Trustee Act s. 27 when planning trust investments.",
+  "back": "General economic conditions, the expected tax consequences of an investment strategy, and the need for liquidity and preservation or appreciation of capital. Diversification appropriate to the trust is also required."
+ },
+ {
+  "id": 257,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under Trustee Act s. 27.1, when may a trustee authorize an agent to exercise investment functions over trust property?",
+  "back": "Only if the trustee has prepared a written plan or strategy, and a written agreement with the agent is in effect containing the required terms, to the extent a prudent investor acting under ordinary investment practice would authorize an agent."
+ },
+ {
+  "id": 258,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "What is the multiple wills strategy, and why is it used in Ontario estate planning?",
+  "back": "A primary will covers assets that require probate, while a secondary will covers assets that do not, such as private company shares. Because estate administration tax is calculated only on the assets covered by the certificate applied for, the strategy reduces the tax base. It was accepted in Granovsky Estate v. Ontario."
+ },
+ {
+  "id": 259,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "A court issues a Certificate of Appointment of Estate Trustee with a Will Limited to the Assets Referred to in the Will. What value is used to calculate estate administration tax?",
+  "back": "Only the assets included in that specific limited will are included in the value of the estate for tax purposes, not the deceased's whole property."
+ },
+ {
+  "id": 260,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Land is granted to two or more people other than executors or trustees, with no expressed intention on the face of the document. Do they take as joint tenants or tenants in common?",
+  "back": "As tenants in common, under Conveyancing and Law of Property Act s. 13(1), unless an intention that they take as joint tenants sufficiently appears on the face of the document."
+ },
+ {
+  "id": 261,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Name the three ways a joint tenancy may be severed, as confirmed in Hansen Estate v. Hansen.",
+  "back": "By a joint tenant acting unilaterally on their own share, for example by alienating it; by mutual agreement of the joint tenants; or by any course of dealing sufficient to show the interests were mutually treated as a tenancy in common."
+ },
+ {
+  "id": 262,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Does a valid RRSP, RRIF or TFSA beneficiary designation pass through the estate, and how is it treated for a surviving spouse's family law equalization claim?",
+  "back": "No, it is paid directly to the named person outside the estate and the will, but it is credited against the surviving spouse's equalization entitlement unless the deceased stated in writing that it is in addition, under FLA sections 6(6) and 6(7)."
+ },
+ {
+  "id": 263,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "State the presumption that applies to a gratuitous transfer from one person to another, and who bears the onus, per Pecore v. Pecore.",
+  "back": "A gratuitous transfer is presumed to be a resulting trust, meaning the transferee holds the property in trust for the transferor. The transferee bears the onus of proving that a gift was actually intended."
+ },
+ {
+  "id": 264,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "An elderly parent adds an independent adult child to a bank account for convenience. Does the presumption of advancement apply to make this a gift?",
+  "back": "No. The presumption of advancement is limited to gratuitous transfers from a parent to a minor child and does not apply to independent adult children. The transfer is presumed a resulting trust, so the child holds it in trust for the parent's estate absent proof of a gift."
+ },
+ {
+  "id": 265,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "State the sound disposing mind test for testamentary capacity as applied in Ontario, drawing on Banks v. Goodfellow and McGrath v. Joy.",
+  "back": "The testator must understand the nature and effect of a will, recollect the nature and extent of their property, understand what they are giving under the will, remember the people they might be expected to benefit, and, where applicable, understand the claims of persons being excluded."
+ },
+ {
+  "id": 266,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under Vout v. Hay, who bears the burden of proving testamentary capacity where suspicious circumstances surround the making of a will?",
+  "back": "The propounder of the will must prove knowledge and approval of the contents, and where the suspicious circumstances call capacity into question, the propounder must also prove testamentary capacity on a balance of probabilities."
+ },
+ {
+  "id": 267,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Who is a dependant entitled to claim support from an estate under SLRA s. 57?",
+  "back": "The deceased's spouse, parent, child, or brother or sister, but only if the deceased was providing support to that person, or was under a legal obligation to provide support, immediately before death."
+ },
+ {
+  "id": 268,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under SLRA s.72, what happens to certain lifetime transactions the deceased made before death for the purpose of a dependant support claim?",
+  "back": "The capital value of listed transactions, such as certain dispositions and certain joint deposits or holdings, is treated as a testamentary disposition included in the net estate available to be charged, though a claiming dependant bears the burden of proving the funds belonged to the deceased."
+ },
+ {
+  "id": 269,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under SLRA s. 59, what may the court order at the request of a dependant while a support application is pending?",
+  "back": "A suspensory order, suspending the administration of the estate wholly or partly, for the time and to the extent the court decides."
+ },
+ {
+  "id": 270,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under Income Tax Act s. 70(5), what is the general tax rule that applies to a deceased taxpayer's capital property?",
+  "back": "The taxpayer is deemed to have disposed of each capital property immediately before death for proceeds equal to its fair market value. The person who acquires the property is deemed to acquire it at that same fair market value."
+ },
+ {
+  "id": 271,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "How does the ITA s. 70(6) spousal rollover change the deemed disposition rule, and what is the time limit to establish it applies?",
+  "back": "Property transferred to a surviving spouse or common-law partner, or to a qualifying spousal trust, is instead deemed disposed of at adjusted cost base, deferring the gain. The property must vest indefeasibly in the spouse or trust within 36 months after death, or a longer period the Minister allows."
+ },
+ {
+  "id": 272,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Does the ITA offer a general rollover on death for ordinary small business corporation shares?",
+  "back": "No. The death rollovers to a child in the ITA apply only to farm and fishing property, or to shares of a family farm or fishing corporation. Ordinary small business shares are subject to the regular deemed disposition rule in s. 70(5), though the lifetime capital gains exemption may still reduce the tax."
+ },
+ {
+  "id": 273,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "What is a graduated rate estate under ITA s. 248(1), and how long does that status last?",
+  "back": "The testamentary trust that arose on a deceased individual's death, provided it designates itself as such, gives the individual's SIN in its returns, and no other estate makes the same designation. The status lasts no more than 36 months after the death."
+ },
+ {
+  "id": 274,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under ITA s. 159, to what extent is an estate's legal representative personally liable for the deceased's unpaid income tax?",
+  "back": "The legal representative is jointly and severally liable with the taxpayer, to the extent of the property in the representative's possession or control, and remains personally liable if property is distributed before obtaining a clearance certificate, to the extent of the value distributed."
+ },
+ {
+  "id": 275,
+  "domain": "estate_administration_trusts_and_taxation",
+  "front": "Under FLA s. 6, what two choices does a surviving spouse have when the deceased spouse dies leaving a will, and what is the filing deadline?",
+  "back": "The surviving spouse must elect to take under the will, or to receive the equalization of net family property entitlement under FLA s. 5. The election must be filed with the Estate Registrar for Ontario within six months of the death, or the spouse is deemed to have elected to take under the will."
+ },
+ {
+  "id": 276,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Under the Business Names Act, when must an individual register a business name?",
+  "back": "Whenever the individual carries on business or identifies the business to the public under a name other than the individual's own name. Section 2(2)."
+ },
+ {
+  "id": 277,
+  "domain": "business_structures_and_corporate_law",
+  "front": "How long is a business name registration effective in Ontario?",
+  "back": "Five years from the date the Registrar accepts it for registration. It must be renewed before expiry or, with a late fee, within 60 days after expiry. Sections 4(1.1) and 5."
+ },
+ {
+  "id": 278,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Is a sole proprietor personally liable for the business's debts?",
+  "back": "Yes. A sole proprietorship is not a separate legal person, so the owner is personally liable for all of the business's debts."
+ },
+ {
+  "id": 279,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Define a partnership under the Partnerships Act.",
+  "back": "The relation that subsists between persons carrying on a business in common with a view to profit. A partnership is not a separate legal person distinct from its partners. Section 2."
+ },
+ {
+  "id": 280,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Does joint tenancy or tenancy in common by itself create a partnership?",
+  "back": "No. Sharing gross returns, joint tenancy, tenancy in common, joint property or part ownership does not by itself create a partnership. Section 3, rules 1 and 2."
+ },
+ {
+  "id": 281,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Is receiving a share of profits proof that a person is a partner?",
+  "back": "It is prima facie evidence of partnership, absent contrary evidence, but not where the payment is a debt instalment, an employee's remuneration, an annuity, or loan interest. Section 3, rule 3."
+ },
+ {
+  "id": 282,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What is the effect of a partner acting in the usual way of the firm's business?",
+  "back": "Every partner is an agent of the firm and the other partners, and an act done in the usual way of business binds the firm unless the third party knows the partner lacks authority. Section 6."
+ },
+ {
+  "id": 283,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Must partners register the firm's name under the Business Names Act?",
+  "back": "Yes. Persons associated in partnership must register the firm name, and all partners must register any other name the partnership uses. Sections 2(3) and 2(3.1)."
+ },
+ {
+  "id": 284,
+  "domain": "business_structures_and_corporate_law",
+  "front": "For an ordinary firm debt, are partners jointly liable or jointly and severally liable?",
+  "back": "Jointly liable, not jointly and severally, for ordinary firm debts. Section 10(1). This corrects the common misconception that every partnership debt is joint and several."
+ },
+ {
+  "id": 285,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Is a deceased partner's estate liable for unsatisfied firm debts?",
+  "back": "Yes, severally liable in due course of administration for unsatisfied firm debts, subject to first paying the deceased partner's own separate debts. Section 10(1)."
+ },
+ {
+  "id": 286,
+  "domain": "business_structures_and_corporate_law",
+  "front": "When are partners liable jointly and severally, rather than merely jointly?",
+  "back": "For a partner's wrongful act or misapplication done in the ordinary course of the firm's business, every partner is liable jointly and severally. Sections 11 to 13."
+ },
+ {
+  "id": 287,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What is a partner in a limited liability partnership NOT protected from?",
+  "back": "The partner's own negligence, the negligence of a person under the partner's direct supervision, and fraud or criminal acts in specified cases. Sections 10(2) and 10(3)."
+ },
+ {
+  "id": 288,
+  "domain": "business_structures_and_corporate_law",
+  "front": "When may a limited liability partnership carry on business in Ontario?",
+  "back": "Only to practise a profession whose governing Act expressly permits an LLP, only if the governing body requires minimum liability insurance, and only after registering its firm name. Sections 44.2 and 44.3(1)."
+ },
+ {
+  "id": 289,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What is the minimum composition of a limited partnership?",
+  "back": "At least one general partner and one limited partner. Sections 2(1) and 2(2) of the Limited Partnerships Act."
+ },
+ {
+  "id": 290,
+  "domain": "business_structures_and_corporate_law",
+  "front": "How is a limited partnership formed?",
+  "back": "When a declaration signed by all of the general partners is accepted for filing with the Registrar. Sections 3(1) and 3(2)."
+ },
+ {
+  "id": 291,
+  "domain": "business_structures_and_corporate_law",
+  "front": "How long does a limited partnership declaration last before it expires?",
+  "back": "Five years after the date it is accepted for filing, unless cancelled or renewed. Expiry does not dissolve the partnership, but a late renewal fee applies. Sections 3(3) and 3(4)."
+ },
+ {
+  "id": 292,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Can a limited partner contribute services to a limited partnership?",
+  "back": "No. A limited partner may contribute money and other property, but not services. Section 7(1)."
+ },
+ {
+  "id": 293,
+  "domain": "business_structures_and_corporate_law",
+  "front": "How much is a limited partner liable for the limited partnership's obligations?",
+  "back": "Only up to the value of the money and property the limited partner contributes or agrees to contribute, as stated in the record of limited partners. Section 9."
+ },
+ {
+  "id": 294,
+  "domain": "business_structures_and_corporate_law",
+  "front": "When does a limited partner become liable as a general partner?",
+  "back": "If, in addition to exercising a limited partner's rights and powers, the limited partner takes part in the control of the business. Section 13(1)."
+ },
+ {
+  "id": 295,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What replaced public disclosure of limited partners on the LP declaration after the 2021 amendments?",
+  "back": "The general partners must maintain a current record of the limited partners at the partnership's principal Ontario place of business, open to free inspection by any person. Section 4, in force October 19, 2021."
+ },
+ {
+  "id": 296,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What powers and liabilities does a general partner in a limited partnership have?",
+  "back": "All the rights, powers, restrictions and liabilities of a partner in an ordinary partnership, except that certain acts require the written consent of all limited partners. Section 8."
+ },
+ {
+  "id": 297,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Does Ontario have a separate statute governing joint ventures?",
+  "back": "No. Ontario has no joint venture statute, so whether a venture is a partnership depends on the Partnerships Act section 2 definition and the section 3 rules."
+ },
+ {
+  "id": 298,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What is the government fee for a new limited partnership declaration in Ontario?",
+  "back": "$210 for a new filing or renewal, and $360 for a late renewal. Change, dissolution and withdrawal filings are $0."
+ },
+ {
+  "id": 299,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Who is disqualified from incorporating an Ontario corporation?",
+  "back": "An individual who is under 18, who has been found incapable of managing property, or who has the status of bankrupt. Section 4(2) of the Business Corporations Act."
+ },
+ {
+  "id": 300,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What makes the certificate of incorporation conclusive proof of the incorporation date?",
+  "back": "The Director's endorsement of the articles constitutes the certificate, which is conclusive proof of incorporation on the date shown, except in a proceeding to cancel it for cause. Sections 6 and 7."
+ },
+ {
+  "id": 301,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Who assigns a corporation's corporation number?",
+  "back": "The Director assigns every Ontario corporation a corporation number, specified in the certificate of incorporation. Section 8(1)."
+ },
+ {
+  "id": 302,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What documents must incorporators send the Director to incorporate federally under the CBCA?",
+  "back": "Articles of incorporation and a notice of directors, after which the Director issues a certificate of incorporation. Sections 5(1) and 106(1) of the Canada Business Corporations Act."
+ },
+ {
+  "id": 303,
+  "domain": "business_structures_and_corporate_law",
+  "front": "When did the Ontario Business Registry launch, and what does it enable?",
+  "back": "October 19, 2021. It lets businesses complete over 90 transactions online, including registering, incorporating and updating information."
+ },
+ {
+  "id": 304,
+  "domain": "business_structures_and_corporate_law",
+  "front": "When must an Ontario corporation file its initial return under the Corporations Information Act?",
+  "back": "Within 60 days after the date of incorporation, amalgamation or continuation. Sections 2(1) and 2(2)."
+ },
+ {
+  "id": 305,
+  "domain": "business_structures_and_corporate_law",
+  "front": "When must an extra-provincial corporation file its initial return?",
+  "back": "Within 60 days after the date it begins to carry on business in Ontario, subject to special rules. Sections 3(1) and 3(2)."
+ },
+ {
+  "id": 306,
+  "domain": "business_structures_and_corporate_law",
+  "front": "When is an Ontario corporation's annual return due?",
+  "back": "Within six months of the corporation's fiscal year end, filed through the Ontario Business Registry each year. Section 3.1."
+ },
+ {
+  "id": 307,
+  "domain": "business_structures_and_corporate_law",
+  "front": "How long does a corporation have to report a change in its Ontario Business Registry information?",
+  "back": "15 days after the day the change takes place. Section 4(1) of the Corporations Information Act."
+ },
+ {
+  "id": 308,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What is the Ontario government fee to incorporate a business corporation?",
+  "back": "$300. Initial returns, notices of change and annual returns under the Corporations Information Act cost $0."
+ },
+ {
+  "id": 309,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What must be part of every Ontario corporation's name?",
+  "back": "The word Limited, Limitee, Incorporated, Incorporee or Corporation, or its abbreviation Ltd., Ltee, Inc. or Corp. Section 10(1)."
+ },
+ {
+  "id": 310,
+  "domain": "business_structures_and_corporate_law",
+  "front": "May an unincorporated business trade under a name using the word Limited or Incorporated?",
+  "back": "No. An unincorporated person or business must not trade or carry on business under a name using those words or their abbreviations. Section 11(1)."
+ },
+ {
+  "id": 311,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Does an Ontario corporation need a corporate seal?",
+  "back": "No. A corporation need not have a corporate seal. Section 13 of the Business Corporations Act."
+ },
+ {
+  "id": 312,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What must a corporation keep for each first director named in the articles who is not an incorporator?",
+  "back": "The individual's signed consent to act as a first director, in the approved form, kept at the registered office. Section 5(2)."
+ },
+ {
+  "id": 313,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What may the directors do at the organizational meeting held after incorporation?",
+  "back": "Make by-laws, adopt corporate records, authorize the issue of securities, appoint officers and auditors, make banking arrangements, and transact other business. Section 117(1)."
+ },
+ {
+  "id": 314,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What happens to a director-made by-law if the shareholders reject it?",
+  "back": "It ceases to be effective, and no later directors' resolution with substantially the same purpose is effective until confirmed by the shareholders. Section 116(4)."
+ },
+ {
+  "id": 315,
+  "domain": "business_structures_and_corporate_law",
+  "front": "When may a corporation issue a share?",
+  "back": "Only once the consideration is fully paid in money, or in property or past service worth at least the fair equivalent of the money the corporation would have received. Section 23(3)."
+ },
+ {
+  "id": 316,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Are shareholders liable to the corporation or its creditors for shares they hold?",
+  "back": "No. Shares issued by a corporation are non-assessable, and the holders are not liable to the corporation or its creditors in respect of them. Section 23(2)."
+ },
+ {
+  "id": 317,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Can a shareholder pay for shares with the shareholder's own promissory note?",
+  "back": "No. A promissory note or other evidence of indebtedness of the person receiving the shares does not constitute valid consideration for shares. Section 23(6)."
+ },
+ {
+  "id": 318,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Name three records a corporation must maintain at its registered office.",
+  "back": "The articles and by-laws, a register of directors, and a securities register. Others include unanimous shareholder agreements, meeting minutes, and a significant control register. Section 140(1)."
+ },
+ {
+  "id": 319,
+  "domain": "business_structures_and_corporate_law",
+  "front": "How long must a corporation retain its accounting records?",
+  "back": "Six years from the end of the last fiscal period to which they relate, provided any applicable taxing authority's retention rules are also met. Section 140(2)."
+ },
+ {
+  "id": 320,
+  "domain": "business_structures_and_corporate_law",
+  "front": "When was the register of individuals with significant control added to the OBCA?",
+  "back": "By an amendment in force May 29, 2019, requiring corporations to keep this register alongside their other minute book records. Section 140(1)(f)."
+ },
+ {
+  "id": 321,
+  "domain": "business_structures_and_corporate_law",
+  "front": "List the four categories of person disqualified from being an Ontario corporation's director.",
+  "back": "A person under 18, a person found incapable of managing property, a person who is not an individual, and a person with the status of bankrupt. Section 118(1)."
+ },
+ {
+  "id": 322,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Must an Ontario director hold shares in the corporation?",
+  "back": "No, unless the articles otherwise provide. Section 118(2) of the Business Corporations Act."
+ },
+ {
+  "id": 323,
+  "domain": "business_structures_and_corporate_law",
+  "front": "Does Ontario still require any fraction of a corporation's directors to be resident Canadians?",
+  "back": "No. The former residency requirement in section 118(3) was repealed effective July 5, 2021. Ontario corporations may now have entirely non-resident boards."
+ },
+ {
+  "id": 324,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What is the CBCA residency requirement for a corporation's directors?",
+  "back": "At least 25 per cent of directors must be resident Canadians, and if there are fewer than four directors, at least one must be. Section 105(3)."
+ },
+ {
+  "id": 325,
+  "domain": "business_structures_and_corporate_law",
+  "front": "When does the CBCA require a majority of directors to be resident Canadians?",
+  "back": "When the corporation engages in an activity in a prescribed business sector, or must meet a Canadian ownership or control requirement under another federal law. Section 105(3.1)."
+ },
+ {
+  "id": 326,
+  "domain": "business_structures_and_corporate_law",
+  "front": "When does a director's resignation become effective?",
+  "back": "When the corporation receives the written resignation, or at the time specified in the resignation, whichever is later. Section 121(2)."
+ },
+ {
+  "id": 327,
+  "domain": "business_structures_and_corporate_law",
+  "front": "How can shareholders remove a director from office?",
+  "back": "By ordinary resolution at an annual or special meeting, subject to the cumulative voting rules. Section 122(1)."
+ },
+ {
+  "id": 328,
+  "domain": "business_structures_and_corporate_law",
+  "front": "State the two duties every OBCA director and officer owes the corporation.",
+  "back": "To act honestly and in good faith with a view to the corporation's best interests, and to exercise the care, diligence and skill of a reasonably prudent person in comparable circumstances. Section 134(1)."
+ },
+ {
+  "id": 329,
+  "domain": "business_structures_and_corporate_law",
+  "front": "On what may a director reasonably rely to establish the statutory diligence defence?",
+  "back": "Financial statements represented by an officer as fairly presenting the corporation's position, a report from an officer or employee, or a report of a lawyer, accountant or other qualified professional. Section 135(4)."
+ },
+ {
+  "id": 330,
+  "domain": "business_structures_and_corporate_law",
+  "front": "When must a director disclose a material interest in a corporation's contract?",
+  "back": "In writing to the corporation, or requesting it be entered in the minutes, at the meeting where the contract is first considered, or at the first meeting after becoming interested. Sections 132(1) and 132(2)."
+ },
+ {
+  "id": 331,
+  "domain": "business_structures_and_corporate_law",
+  "front": "For how much unpaid wages and vacation pay can directors be personally liable to employees?",
+  "back": "Up to six months' unpaid wages and twelve months' accrued vacation pay that became payable while they were directors. Section 131(1)."
+ },
+ {
+  "id": 332,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What must happen before an employee can enforce director liability under section 131?",
+  "back": "The corporation must be sued and execution against it returned unsatisfied, or the corporation must be wound up, insolvent or in receivership, and the claim proved. Section 131(2)."
+ },
+ {
+  "id": 333,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What condition must be met before a corporation may indemnify a director for a proceeding?",
+  "back": "The individual must have acted honestly and in good faith with a view to the corporation's best interests, and, in a criminal or administrative monetary proceeding, had reasonable grounds to believe the conduct was lawful. Sections 136(2) to 136(4)."
+ },
+ {
+  "id": 334,
+  "domain": "business_structures_and_corporate_law",
+  "front": "May a corporation purchase directors' and officers' liability insurance?",
+  "back": "Yes. A corporation may purchase and maintain insurance for a director or officer against liability incurred in that capacity. Section 136(4.3)."
+ },
+ {
+  "id": 335,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What form must an Ontario corporation's shares take?",
+  "back": "Registered form, without nominal or par value. Section 22(1) of the Business Corporations Act."
+ },
+ {
+  "id": 336,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What rights attach to shares where a corporation has only one class of shares?",
+  "back": "The right to vote at all shareholder meetings and the right to receive the corporation's remaining property on dissolution, equal for every holder. Section 22(3)."
+ },
+ {
+  "id": 337,
+  "domain": "business_structures_and_corporate_law",
+  "front": "When must directors not declare a dividend?",
+  "back": "If there are reasonable grounds to believe the corporation is, or after payment would be, unable to pay its liabilities as they become due, or that its realizable assets would be less than its liabilities plus stated capital. Section 38(3)."
+ },
+ {
+  "id": 338,
+  "domain": "business_structures_and_corporate_law",
+  "front": "By when must an Ontario corporation hold its first annual meeting of shareholders?",
+  "back": "Not later than 18 months after the corporation comes into existence, and afterwards not later than 15 months after the last annual meeting. Section 94(1)."
+ },
+ {
+  "id": 339,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What is the effect of a unanimous shareholder agreement on directors' powers?",
+  "back": "It may restrict in whole or in part the directors' power to manage the business, transferring the corresponding rights, powers, duties and liabilities to the shareholder parties who agreed to it. Sections 108(2) and 108(5)."
+ },
+ {
+  "id": 340,
+  "domain": "business_structures_and_corporate_law",
+  "front": "What makes a shareholders' written resolution as valid as a resolution passed at a meeting?",
+  "back": "Being signed by all the shareholders entitled to vote on it. It satisfies all meeting requirements if it deals with everything the Act requires the meeting to address. Section 104(1)(a) and (b)."
+ },
+ {
+  "id": 341,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Before closing a business purchase, what two registry searches does a solicitor typically order to confirm the target's legal status and check for claims on its personal property?",
+  "back": "A corporate search (profile report, and a certificate of status if needed) through the Ontario Business Registry, and a Personal Property Security Act registration search to reveal registered security interests against the target's assets."
+ },
+ {
+  "id": 342,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "What are the Ontario Business Registry fees for a corporate profile report and a certificate of status?",
+  "back": "A profile report costs $8 and a certificate of status costs $26. A document copy is $3 per document. These are government search product fees, not registration fees."
+ },
+ {
+  "id": 343,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Name one priority fact that a bare PPSA registry search will not reveal to a purchaser of a business's assets.",
+  "back": "A purchase money security interest in non-inventory collateral can be perfected up to 15 days after the debtor obtains possession, so a search on the closing date may miss a PMSI that is registered a few days later and still has priority."
+ },
+ {
+  "id": 344,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Besides registration, what other method of PPSA perfection will a standard registry search miss, and where does it matter most?",
+  "back": "Perfection by control of investment property, such as a securities account. A security interest perfected by control can beat one perfected by registration, so a share pledge may not show up on an ordinary financing statement search."
+ },
+ {
+  "id": 345,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Does an Ontario statute make a signed letter of intent binding on the parties to a business sale?",
+  "back": "No. Ontario has no statutory rule on this. It is decided by the letter's own words: a stated non-binding clause makes it non-binding, while all essential terms plus a stated intention to be bound can make it enforceable."
+ },
+ {
+  "id": 346,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "A buyer holds back part of the purchase price in escrow to secure the seller's indemnity obligations. How does the PPSA treat that holdback?",
+  "back": "It is a security interest in personal property. It is not enforceable against a third party unless it has attached, which requires value given, the debtor's rights in the collateral, and a signed agreement describing the collateral."
+ },
+ {
+  "id": 347,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "What does section 67.2 of the Employment Standards Act, 2000 say about non-competition agreements with employees?",
+  "back": "An employer must not enter into an employment contract or other agreement with an employee that is, or includes, a non-compete agreement. Such a covenant is void against the employee unless a statutory exception applies."
+ },
+ {
+  "id": 348,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "A vendor of a business signs a non-competition covenant in favour of the buyer. Is the ESA prohibition on non-competes relevant?",
+  "back": "No. The ESA ban applies to employment agreements. A vendor's non-compete given on the sale of a business is a restraint of trade at common law, enforced only if reasonable in scope, duration and territory."
+ },
+ {
+  "id": 349,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "On a share purchase, what stays with the target corporation and passes indirectly to the buyer?",
+  "back": "The corporation keeps its legal personality, its contracts, its licences, its employees and, subject to the buyer's due diligence, its existing liabilities. The buyer acquires the shares and so acquires indirect ownership of the whole business."
+ },
+ {
+  "id": 350,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Why does an asset purchase agreement usually need consent and assignment clauses that a share purchase agreement does not?",
+  "back": "Contracts, licences and employment relationships do not transfer automatically on a sale of assets in Ontario. Each must be assigned or novated, and any consent the contract requires from the other party must be obtained."
+ },
+ {
+  "id": 351,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Under the Business Corporations Act, can directors alone approve selling all or substantially all of a corporation's property?",
+  "back": "No. Subject to section 184(3), directors may sell, lease or exchange all or substantially all the corporation's property only if authorized by the shareholders, as that section requires. Section 184(1) is the general power to dispose of property."
+ },
+ {
+  "id": 352,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Does a sale of all or substantially all of an Ontario corporation's property give a shareholder a dissent right?",
+  "back": "Yes. Section 185(1)(e) of the Business Corporations Act makes an authorized sale, lease or exchange of all or substantially all the corporation's property a dissent trigger, letting a dissenting shareholder demand fair value for their shares."
+ },
+ {
+  "id": 353,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Under the PPSA, what three things must be true before a security interest attaches?",
+  "back": "Value must have been given, the debtor must have rights in the collateral or the power to transfer rights in it, and one of the section 11(2) events must have occurred, such as a signed security agreement."
+ },
+ {
+  "id": 354,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Under PPSA section 11(2), what is the most common event that satisfies the third attachment requirement?",
+  "back": "The debtor signing a security agreement that contains a description of the collateral sufficient to enable it to be identified. Other listed events cover possession and control of certain collateral types."
+ },
+ {
+  "id": 355,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "How does PPSA section 19 define perfection, and does the order of attachment and perfection matter?",
+  "back": "A security interest is perfected once it has attached and all steps the Act requires for perfection have been completed, regardless of the order those two things occur in."
+ },
+ {
+  "id": 356,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "A security agreement covers after acquired property. When does it attach to consumer goods the debtor later acquires?",
+  "back": "No security interest attaches under an after acquired property clause to consumer goods, other than accessions, unless the debtor acquires rights in them within 10 days after the secured party gives value."
+ },
+ {
+  "id": 357,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Can a single Ontario security agreement secure a revolving line of credit where the balance changes daily?",
+  "back": "Yes. Section 13 of the PPSA allows a security agreement to secure future advances, so one agreement and one registration can secure a fluctuating balance without a new filing each time it changes."
+ },
+ {
+  "id": 358,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Where no special PPSA rule applies, how is priority decided between two perfected security interests in the same collateral?",
+  "back": "By the order of registration of the financing statements, not by the order in which the interests were perfected and not by which security agreement was signed first. This is section 30(1), rule 1."
+ },
+ {
+  "id": 359,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "How does priority work between a security interest perfected by registration and one perfected some other way, such as by possession?",
+  "back": "The interest registered first wins if registration occurred before the other interest was perfected. The interest perfected other than by registration wins if it was perfected before the financing statement was registered."
+ },
+ {
+  "id": 360,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "How is priority decided between two unperfected security interests in the same collateral?",
+  "back": "By order of attachment. Whichever unperfected interest attached to the collateral first has priority over a later unperfected interest, under PPSA section 30(1), rule 4."
+ },
+ {
+  "id": 361,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "A registered security interest becomes unperfected when a financing statement lapses, then the secured party re-registers. Is the interest treated as continuously perfected?",
+  "back": "Yes, under section 30(6), except the re-registration is not effective against anyone who acquired rights in the collateral during the gap when the interest was unperfected."
+ },
+ {
+  "id": 362,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Does a perfected security interest in a debtor's accounts or inventory always beat a deemed trust claim?",
+  "back": "No. Under section 30(7), a security interest in an account or inventory, and its proceeds, is subordinate to a beneficiary of a deemed trust under the Employment Standards Act, 2000, the Pension Benefits Act, or the Pooled Registered Pension Plans Act, 2015."
+ },
+ {
+  "id": 363,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Does the deemed trust rule that subordinates security interests in accounts and inventory also subordinate a purchase money security interest in inventory?",
+  "back": "No. Section 30(8) says a perfected purchase money security interest in inventory or its proceeds is not subordinated by the deemed trust priority rule."
+ },
+ {
+  "id": 364,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "A repair shop services equipment that is already subject to a perfected PPSA security interest and is not paid. Who wins?",
+  "back": "The repairer, generally. Under section 31, a lien for materials or services furnished in the ordinary course of business on goods subject to a security interest has priority over the perfected interest, unless the statute creating the lien says otherwise."
+ },
+ {
+  "id": 365,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "For a purchase money security interest in inventory to have priority over an earlier registered general security interest, when must it be perfected?",
+  "back": "At the time the debtor obtains possession of the inventory, under section 33(1)(a) and (b) of the PPSA."
+ },
+ {
+  "id": 366,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Besides perfecting on time, what extra step must a PMSI lender in inventory take before the debtor gets possession?",
+  "back": "Give written notice, before the debtor receives possession, to every other secured party who has already registered a financing statement describing the same items or types of inventory, stating it has or expects to acquire a PMSI in that inventory."
+ },
+ {
+  "id": 367,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "For collateral other than inventory, when must a purchase money security interest be perfected to have priority over an existing security interest?",
+  "back": "Before, or within 15 days after, the debtor obtains possession of the collateral, under section 33(2)(a) and (b). No written notice to other secured parties is required for this rule."
+ },
+ {
+  "id": 368,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Both a seller and a lender each hold a purchase money security interest in the same equipment given by the same debtor. Who has priority?",
+  "back": "The seller's purchase money security interest has priority over the lender's, under PPSA section 33(3), where more than one PMSI is otherwise given priority under the Act."
+ },
+ {
+  "id": 369,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Goods become a fixture attached to real property. If the security interest in the goods attached before they became a fixture, who wins against the landowner?",
+  "back": "The secured party. A security interest in goods that attached before the goods became a fixture has priority as to the fixture over the claim of any person with an interest in the real property."
+ },
+ {
+  "id": 370,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "A security interest in goods attaches after they already became a fixture. Does it beat someone who had a registered land interest before that?",
+  "back": "No, unless that landowner consented in writing or disclaimed an interest in the fixture. It does beat anyone who acquired an interest in the real property after the security interest attached."
+ },
+ {
+  "id": 371,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "A secured party with fixture priority wants to remove the fixture on default. What must they do first?",
+  "back": "Reimburse any encumbrancer or owner of the real property, other than the debtor, for the cost of repairing physical injury from removal, and serve written notice of intention to remove on each person shown as having an interest in the land records."
+ },
+ {
+  "id": 372,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "How does a secured party perfect and rank priority in a securities account under the PPSA?",
+  "back": "Control, not registration, is the strongest perfection method for investment property. A security interest of a secured party with control has priority over one without control, under section 30.1(2)."
+ },
+ {
+  "id": 373,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Two secured parties each obtain control of the same securities account. How is priority between them decided?",
+  "back": "By priority in time of obtaining control, under section 30.1(4). A securities intermediary's own security interest in an account it maintains, however, beats a conflicting interest of another secured party."
+ },
+ {
+  "id": 374,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "A lease of equipment runs for a term of one year or less, but the lessee keeps possession beyond a year with the lessor's consent. Is it caught by the PPSA?",
+  "back": "Yes. The PPSA definition of a lease for a term of more than one year includes a shorter lease where the lessee retains substantially uninterrupted possession beyond a year with the lessor's consent, and any renewable lease."
+ },
+ {
+  "id": 375,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "A lessor enters a true equipment lease with a five year term. What should the lessor do to protect its interest under the PPSA?",
+  "back": "Register a financing statement, because the lease is treated as creating a security interest with the lessor as secured party and the lessee as debtor. A buyer or lender dealing with the goods should search the registry."
+ },
+ {
+  "id": 376,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Can a creditor sue on a purely oral guarantee of another person's debt in Ontario?",
+  "back": "No. Under section 4 of the Statute of Frauds, no action may be brought on a special promise to answer for another person's debt, default or miscarriage unless the agreement, or a memorandum of it, is in writing and signed by the guarantor."
+ },
+ {
+  "id": 377,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "How does a guarantee differ from an indemnity in a loan document?",
+  "back": "A guarantee is secondary: the guarantor pays only if the principal debtor defaults, and can generally raise the debtor's defences. An indemnity is a primary, independent obligation to make good a loss regardless of the debtor's own default."
+ },
+ {
+  "id": 378,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "When a debtor defaults, where does a secured creditor's remedy of seizing and selling the collateral come from?",
+  "back": "From the security agreement and the general law, not from the PPSA's registration machinery. The PPSA governs priority and perfection; it does not itself create the enforcement remedy."
+ },
+ {
+  "id": 379,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "What does a writ of seizure and sale let a judgment creditor do?",
+  "back": "File it with the sheriff for the county where the debtor's property is located, directing the sheriff to seize and sell the debtor's non-exempt personal property and any real property owned there, applying proceeds to the judgment debt."
+ },
+ {
+  "id": 380,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "How does garnishment let a judgment creditor collect from a debtor?",
+  "back": "By serving a notice of garnishment on a third party who owes the debtor money, most commonly an employer or a bank, redirecting that payment to the court or the creditor instead of to the debtor."
+ },
+ {
+  "id": 381,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Under the Execution Act, what is the current exemption amount for an individual debtor's household furnishings and appliances?",
+  "back": "$17,091, under the current O. Reg. 657/05 amounts. Amounts exceeding this figure remain subject to seizure and sale, with the debtor paid the exempt amount from the proceeds."
+ },
+ {
+  "id": 382,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "What is the Execution Act exemption for tools and other personal property a debtor uses to earn income, and how does farming change it?",
+  "back": "$17,362 for an ordinary debtor's occupation, but $37,820 for a debtor engaged solely in farming, under section 2(1) and the current O. Reg. 657/05 amounts."
+ },
+ {
+  "id": 383,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "What is the current Execution Act exemption for one motor vehicle owned by an individual debtor?",
+  "back": "$8,578. It is a per-debtor exemption for one vehicle, at the debtor's option, under section 2(1) and the current O. Reg. 657/05 amounts."
+ },
+ {
+  "id": 384,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "What is the current Execution Act exemption for a debtor's equity in a principal residence, and why does it move without a statutory amendment?",
+  "back": "$12,997. Since a 2023 amendment in force June 8, 2023, section 2(2) expresses this as a prescribed amount rather than a fixed dollar figure, so the amount is set by regulation and indexed."
+ },
+ {
+  "id": 385,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Is there a dollar cap on the Execution Act exemption for aids and devices a debtor needs for a disability or medical condition?",
+  "back": "No. Aids and devices required by the debtor or a dependant to assist with a disability, or a medical or dental condition, are exempt from seizure without any dollar limit."
+ },
+ {
+  "id": 386,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "What kind of transaction does Ontario's Bulk Sales Act apply to?",
+  "back": "A sale of stock in bulk, meaning a sale of most or all of a business's inventory or trade assets outside the ordinary course of business, subject to exemptions for sales by an executor, trustee in bankruptcy, receiver or similar fiduciary."
+ },
+ {
+  "id": 387,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "How does the Bulk Sales Act protect a selling business's trade creditors on a sale of stock in bulk?",
+  "back": "By requiring the seller to give the buyer a sworn statement of its trade creditors before the buyer pays the purchase price, and by making the buyer liable to distribute the proceeds properly if that statement is never obtained."
+ },
+ {
+  "id": 388,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "What is the wage priority for an employee owed wages when their employer goes bankrupt?",
+  "back": "A secured claim, as of the date of bankruptcy, up to $2,000 less any amount already paid, on the bankrupt's current assets, for wages, salary, commissions or compensation earned in the six months before the initial bankruptcy event."
+ },
+ {
+  "id": 389,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "What does section 2 of the Fraudulent Conveyances Act make void, and against whom?",
+  "back": "Every conveyance of real or personal property made with intent to defeat, hinder, delay or defraud creditors is void as against those creditors and their assigns, whether or not real consideration was paid."
+ },
+ {
+  "id": 390,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Under section 3 of the Fraudulent Conveyances Act, when is a conveyance protected even though the transferor had a fraudulent intent?",
+  "back": "Where the estate or interest was conveyed upon good consideration and in good faith to a person who did not have notice or knowledge of the transferor's fraudulent intent at the time of the conveyance."
+ },
+ {
+  "id": 391,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Under the Assignments and Preferences Act, when is a transfer by an insolvent debtor void as against creditors generally, apart from any single preferred creditor?",
+  "back": "Under section 4(1), when made by a person who is insolvent, unable to pay debts in full, or knows they are on the eve of insolvency, with intent to defeat, hinder, delay or prejudice creditors, it is void against the creditors injured."
+ },
+ {
+  "id": 392,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Under section 4(2) of the Assignments and Preferences Act, what makes a payment to one creditor an unjust preference?",
+  "back": "A transfer or payment made by an insolvent debtor, or one on the eve of insolvency, to or for a creditor, with intent to give that creditor an unjust preference over other creditors. It is void as against the creditors prejudiced."
+ },
+ {
+  "id": 393,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Under the Bankruptcy and Insolvency Act Part XI, does a receiver appointed under a security agreement get its powers from the BIA itself?",
+  "back": "No. A receiver, defined in section 243(2), takes its powers from the security agreement and the court order appointing or confirming it. Part XI regulates the receiver's notice and reporting obligations, not the appointment."
+ },
+ {
+  "id": 394,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Under the Bankruptcy and Insolvency Act, how far back can a trustee attack a preference given to an arm's length creditor?",
+  "back": "Three months before the date of the initial bankruptcy event and ending on the date of bankruptcy, under section 95(1)(a), where the transfer was made with a view to giving that creditor a preference over other creditors."
+ },
+ {
+  "id": 395,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "How does the BIA preference look back period change when the favoured creditor does not deal at arm's length with the debtor?",
+  "back": "It extends to 12 months before the date of the initial bankruptcy event, under section 95(1)(b), four times longer than the three month period that applies to an arm's length creditor."
+ },
+ {
+  "id": 396,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "If an arm's length transfer actually gave one creditor a preference, does the BIA presume it was made with a view to giving that preference?",
+  "back": "Yes, absent evidence to the contrary, under section 95(2), even if the debtor made the payment under pressure from the creditor. Evidence of pressure is not admissible to support the transaction."
+ },
+ {
+  "id": 397,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "Under BIA section 96, what three things must be shown to void a transfer at undervalue made to an arm's length party?",
+  "back": "The transfer occurred in the year before the initial bankruptcy event; the debtor was insolvent at the time or was rendered insolvent by it; and the debtor intended to defraud, defeat or delay a creditor."
+ },
+ {
+  "id": 398,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "How much further back can a trustee reach to attack a transfer at undervalue made to a non-arm's length party?",
+  "back": "Up to five years before the initial bankruptcy event, under section 96(1)(b), on top of the standard one year window, provided the debtor was insolvent at the time, was rendered insolvent by it, or intended to defraud a creditor."
+ },
+ {
+  "id": 399,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "If a court finds a transfer at undervalue under BIA section 96, what remedy can it order?",
+  "back": "It can declare the transfer void as against the trustee, or order a party to the transfer to pay the estate the difference between the value the debtor received and the value of what the debtor gave."
+ },
+ {
+  "id": 400,
+  "domain": "commercial_transactions_and_secured_lending",
+  "front": "An unpaid supplier delivered goods to a business that then went bankrupt. What are the two key time limits for its BIA repossession right?",
+  "back": "The goods must have been delivered within 30 days before the bankruptcy or receivership, and the supplier must present a written demand for repossession within 15 days after that event, under section 81.1(1)."
+ },
+ {
+  "id": 401,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "How are the Rules of Professional Conduct numbered?",
+  "back": "Chapter.section-item. Rule 3.2-7 means item 7 in section 3.2 of chapter 3. A complete section is cited alone, such as section 3.4, and a single rule is cited by its full number, such as rule 3.4-10."
+ },
+ {
+  "id": 402,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 2.1-1 require of a lawyer?",
+  "back": "To carry on the practice of law and discharge all responsibilities to clients, tribunals, the public and other members of the profession honourably and with integrity."
+ },
+ {
+  "id": 403,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "How does rule 3.1-1 define a \"competent lawyer\"?",
+  "back": "One who has and applies relevant knowledge, skills and attributes to each matter, including knowing the law, investigating facts, communicating effectively, managing the practice, and pursuing professional development."
+ },
+ {
+  "id": 404,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 3.1-2 require, separately from the definition in rule 3.1-1?",
+  "back": "That a lawyer perform any legal services undertaken on a client's behalf to the standard of a competent lawyer."
+ },
+ {
+  "id": 405,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does the technological competence commentary to rule 3.1 require?",
+  "back": "A lawyer should develop an understanding of, and ability to use, technology relevant to their practice, understanding its benefits and risks, keeping in mind the duty to protect confidential information under section 3.3."
+ },
+ {
+  "id": 406,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What standard of service does rule 3.2-1 require?",
+  "back": "Courteous, thorough and prompt service that is competent, timely, conscientious, diligent, efficient and civil."
+ },
+ {
+  "id": 407,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Before providing services under a limited scope retainer, what must a lawyer do under rule 3.2-1A?",
+  "back": "Advise the client honestly and candidly about the nature, extent and scope of the services to be provided."
+ },
+ {
+  "id": 408,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 3.2-1A.1 require after a limited scope retainer is agreed?",
+  "back": "That the services be confirmed in writing, with a copy given to the client when practicable."
+ },
+ {
+  "id": 409,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Name two exceptions in rule 3.2-1A.2 to the written confirmation requirement for a limited scope retainer.",
+  "back": "Duty counsel and clinic summary advice are two listed exceptions. Telephone hotline summary advice and introductory consultations are also listed."
+ },
+ {
+  "id": 410,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 3.2-2 require when advising a client?",
+  "back": "The lawyer shall be honest and candid."
+ },
+ {
+  "id": 411,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.2-3, who does a lawyer act for when retained by an organization?",
+  "back": "The organization itself, not the individual officer, employee or agent who gives the instructions."
+ },
+ {
+  "id": 412,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What three things does rule 3.2-7 forbid a lawyer from doing regarding a client's dishonesty, fraud or crime?",
+  "back": "Knowingly assisting or encouraging it, doing or omitting anything the lawyer ought to know facilitates it, and advising anyone how to violate the law and avoid punishment."
+ },
+ {
+  "id": 413,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What must a lawyer do under rule 3.2-7.2 when retained?",
+  "back": "Make reasonable efforts to ascertain the purpose and objectives of the retainer and obtain the information about the client necessary to meet that obligation."
+ },
+ {
+  "id": 414,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 3.2-7.3 say about a lawyer's trust account?",
+  "back": "A lawyer shall not use the trust account for purposes not related to the provision of legal services."
+ },
+ {
+  "id": 415,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.2-8, what is the first step when a lawyer learns an organization client is acting dishonestly?",
+  "back": "Advise the instructing person and the chief legal officer, or the chief legal officer and CEO, that the conduct should be stopped, then escalate progressively higher, ultimately to the board, and withdraw under section 3.7 if it continues."
+ },
+ {
+  "id": 416,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 3.2-9 require when a client's decision-making ability is impaired?",
+  "back": "As far as reasonably possible, the lawyer shall maintain a normal lawyer and client relationship."
+ },
+ {
+  "id": 417,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rules 3.2-9.4 and 3.2-9.5, what must a real estate lawyer tell a client about title insurance, and what must the lawyer never accept?",
+  "back": "That title insurance is not mandatory and not the only option to assure title, and the lawyer must never receive compensation, directly or indirectly, for recommending a specific title insurance product."
+ },
+ {
+  "id": 418,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rules 3.2-9.8 and 3.2-9.9, how long does a lawyer acting for a mortgage lender have to deliver the final report after registration?",
+  "back": "60 days after registration of the mortgage, or such other time as the lender instructs, even if funds were paid out to discharge a prior encumbrance under an unregistered undertaking."
+ },
+ {
+  "id": 419,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 3.3-1 require a lawyer to do with client information?",
+  "back": "Hold in strict confidence, at all times, all information concerning the business and affairs of the client acquired in the course of the professional relationship, unless authorized, required by law, required by the Law Society, or permitted under rules 3.3-2 to 3.3-6."
+ },
+ {
+  "id": 420,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "When a lawyer discloses confidential information because required by law, what limit does rule 3.3-1.1 impose?",
+  "back": "The lawyer shall not disclose more information than is required."
+ },
+ {
+  "id": 421,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.3-3, when may a lawyer disclose confidential information about an imminent risk?",
+  "back": "When the lawyer believes on reasonable grounds there is an imminent risk of death or serious bodily harm and disclosure is necessary to prevent it, disclosing no more than required."
+ },
+ {
+  "id": 422,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 3.3-4 permit a lawyer to disclose confidential information for?",
+  "back": "To defend against allegations that the lawyer or the lawyer's associates or employees committed a criminal offence, are civilly liable, committed professional negligence, or engaged in professional misconduct."
+ },
+ {
+  "id": 423,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 3.3-5 permit disclosure of confidential information for?",
+  "back": "To establish or collect the lawyer's fees."
+ },
+ {
+  "id": 424,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 3.3-6 permit disclosure of confidential information for?",
+  "back": "To another lawyer, to secure legal advice about the lawyer's own proposed conduct."
+ },
+ {
+  "id": 425,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.3-7, when may a lawyer disclose confidential information about a change of firm?",
+  "back": "To the extent reasonably necessary to detect and resolve conflicts arising from a change of employment or firm composition, but only if it does not compromise solicitor client privilege or otherwise prejudice the client."
+ },
+ {
+  "id": 426,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rules 3.4-1 and 3.4-2, when can a lawyer act despite a conflict of interest?",
+  "back": "Only with the fully informed and voluntary consent of all affected clients, after disclosure, and only where the lawyer reasonably believes they can represent each client without a material adverse effect on the representation of, or loyalty to, the other."
+ },
+ {
+  "id": 427,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.4-3, can a lawyer represent opposing parties in a dispute even with consent from both?",
+  "back": "No. Rule 3.4-3 is an absolute prohibition: a lawyer shall not represent opposing parties in a dispute."
+ },
+ {
+  "id": 428,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.4-5, name two of the three things a lawyer must tell each client before a joint retainer.",
+  "back": "That the lawyer has been asked to act for both or all of them, and that no information from one client can be treated as confidential against the others. The third is that the lawyer may have to withdraw completely if an unresolved conflict develops."
+ },
+ {
+  "id": 429,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "When a lawyer has a continuing relationship with one client, what must the lawyer do under rules 3.4-6 and 3.4-7 before accepting a joint retainer with another client?",
+  "back": "Advise the other client of the continuing relationship and recommend independent legal advice, then obtain the clients' consent to the joint retainer."
+ },
+ {
+  "id": 430,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.4-8, what must a lawyer do when a contentious issue arises between joint retainer clients?",
+  "back": "Not advise either client on the contentious issue, refer both clients to other lawyers, and withdraw from the joint representation if the issue is not resolved."
+ },
+ {
+  "id": 431,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.4-9, when may a lawyer keep advising one joint retainer client on a contentious issue?",
+  "back": "Only if the clients consented in advance to the joint retainer and also agreed in advance the lawyer could continue advising one of them, in which case the other client must be referred to another lawyer."
+ },
+ {
+  "id": 432,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 3.4-10 prohibit?",
+  "back": "Acting against a former client, without consent, in the same matter, any related matter, or any other matter where the lawyer has relevant confidential information that may prejudice that client. This is the former client rule; the term \"bright line rule\" does not appear in the Ontario Rules and is not this rule's name."
+ },
+ {
+  "id": 433,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 3.4-11 allow?",
+  "back": "Another lawyer in the same firm may act against a former client if the former client consents, or if the firm shows it took adequate and timely measures to ensure no risk of disclosure of the former client's confidential information."
+ },
+ {
+  "id": 434,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.4-12, and its exception in rule 3.4-14, what dollar figure lets a lawyer act for both lender and borrower on a mortgage?",
+  "back": "Where the consideration for the mortgage or loan does not exceed $75,000, among the other listed exceptions in rule 3.4-14."
+ },
+ {
+  "id": 435,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.4-16, when acting for both borrower and a \"lending client\" under a joint retainer, when is the lending client's consent deemed to exist?",
+  "back": "On receipt of the lending client's written instructions to act, which excuses the lawyer from the rule 3.4-5 and 3.4-6 advice and the rule 3.4-7 consent for that lending client."
+ },
+ {
+  "id": 436,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.4-16.7, can one lawyer act for both the transferor and the transferee in a transfer of title to real property?",
+  "back": "No. Rule 3.4-16.7 prohibits an individual lawyer from acting for both sides in a transfer of title to real property."
+ },
+ {
+  "id": 437,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.4-16.9, name one of the three situations in which an individual lawyer may act for both transferor and transferee.",
+  "back": "Where the transferor and transferee are \"related persons\" under section 251 of the federal Income Tax Act. The other two are where the Land Registration Reform Act permits signing for both, and where the lawyer practises in a remote location with no other reasonably available lawyer."
+ },
+ {
+  "id": 438,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Which rules govern short term legal services, such as pro bono summary advice?",
+  "back": "Rules 3.4-16.2 to 3.4-16.6. A lawyer may provide them without checking for conflicts from the firm's other clients, but must stop once aware of a conflict and cannot seek a waiver from the short term client."
+ },
+ {
+  "id": 439,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rules 3.4-28 and 3.4-28.1, when may a lawyer borrow from a client?",
+  "back": "Only if the client is a regulated lender or a related person. Otherwise a lawyer shall not borrow from a client, and any transaction with a client must be fair and reasonable to the client."
+ },
+ {
+  "id": 440,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.4-29, what protection must a lawyer require for a loan to a client who is not a related person, and what is required instead for a related person?",
+  "back": "Independent legal representation for a client who is not a related person, but only independent legal advice for a loan to a related person."
+ },
+ {
+  "id": 441,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rules 3.5-2 to 3.5-7, what must a lawyer do with a client's property?",
+  "back": "Take care of it as a careful and prudent owner would, label and safeguard it separately from the lawyer's own property, keep records of it, and account promptly and deliver it on request or at the end of the retainer."
+ },
+ {
+  "id": 442,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What two conditions does rule 3.6-1 impose on a fee or disbursement?",
+  "back": "It must be fair and reasonable, and it must have been disclosed to the client in a timely fashion."
+ },
+ {
+  "id": 443,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.6-1.1 and section 33(1) of the Solicitors Act, when may a lawyer charge interest on an overdue account?",
+  "back": "Only as permitted by the Solicitors Act or otherwise permitted by law, calculated from a date one month after the bill was delivered."
+ },
+ {
+  "id": 444,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.6-2, in which two areas is a contingency fee agreement prohibited?",
+  "back": "Family law matters, and Criminal Code or other criminal or quasi-criminal matters."
+ },
+ {
+  "id": 445,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under the Solicitors Act, how long does a solicitor and client have to jointly apply to the Superior Court of Justice to approve a contingency fee above the prescribed percentage cap?",
+  "back": "90 days after the agreement is executed. The agreement is not enforceable unless the court approves it."
+ },
+ {
+  "id": 446,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rules 3.6-6.0 and 3.6-6.1, name two conditions that must be met to pay a lawful referral fee between licensees.",
+  "back": "The fee must be fair and reasonable and must not increase the total fee to the client, and a referral agreement in the Law Society's form must be signed by the referring licensee, the receiving licensee and the client."
+ },
+ {
+  "id": 447,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 3.6-7 prohibit?",
+  "back": "Directly or indirectly sharing, splitting or dividing fees with anyone who is not a lawyer or paralegal, or giving any financial or other reward to a non-licensee for referring clients."
+ },
+ {
+  "id": 448,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.7-1, on what basis can a lawyer withdraw from representing a client?",
+  "back": "Only for good cause and on reasonable notice to the client."
+ },
+ {
+  "id": 449,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Name one of the three mandatory withdrawal grounds in rule 3.7-7.",
+  "back": "The lawyer is discharged by the client. The others are that the client's instructions require the lawyer to act contrary to the rules or by-laws, and that the lawyer is not competent to continue handling the matter."
+ },
+ {
+  "id": 450,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rule 3.7-9, on withdrawal what must a lawyer do with the client's papers and account for outstanding fees?",
+  "back": "Subject to the lawyer's lien, deliver the client's papers and property, account for all funds held including refunding remuneration not earned, and render a prompt account for outstanding fees and disbursements."
+ },
+ {
+  "id": 451,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 5.1-1 require of a lawyer acting as advocate, and does it apply to a solicitor?",
+  "back": "To represent the client resolutely and honourably within the limits of the law, treating the tribunal with candour, fairness, courtesy and respect. Yes, it applies whenever a solicitor appears before a court or tribunal."
+ },
+ {
+  "id": 452,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under rules 5.2-1 and 5.2-2, can a lawyer who is advocate in a proceeding also testify in it?",
+  "back": "Generally no, unless permitted by law, the tribunal or its rules, or the matter is purely formal or uncontroverted. A lawyer who testified also cannot appear as advocate on appeal from that decision, with the same limited exception."
+ },
+ {
+  "id": 453,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 6.1-1 require regarding non-lawyer staff?",
+  "back": "A lawyer shall assume complete professional responsibility for their practice and directly supervise non-lawyers to whom particular tasks and functions are assigned."
+ },
+ {
+  "id": 454,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 6.3-3 prohibit?",
+  "back": "A lawyer shall not sexually harass a colleague, a staff member, a client or any other person."
+ },
+ {
+  "id": 455,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 6.3.1-1 require of a lawyer regarding human rights?",
+  "back": "A special responsibility to respect Ontario human rights laws and not discriminate on grounds including race, sex, sexual orientation, gender identity, age, disability and marital status, in professional employment and professional dealings."
+ },
+ {
+  "id": 456,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "What does rule 7.2-11 require of a lawyer's undertakings and trust conditions?",
+  "back": "A lawyer shall not give an undertaking that cannot be fulfilled, and shall fulfill every undertaking given and honour every trust condition once accepted."
+ },
+ {
+  "id": 457,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "How long after the end of the month does By-Law 9 give a licensee to complete the monthly trust reconciliation and comparison record?",
+  "back": "25 days after the last day of the month being reported, required for every trust account every month even if there was no activity."
+ },
+ {
+  "id": 458,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under By-Law 9, what is the cash limit a licensee may accept from a person on any one client file?",
+  "back": "$7,500 Canadian, in aggregate, per client file, subject to listed exceptions such as fees, disbursements and funds from certain public officials."
+ },
+ {
+  "id": 459,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under By-Law 7.1, when must a licensee verify the identity of an individual client, compared to an organization client?",
+  "back": "For an individual, verification is done immediately after first engaging in the funds activity. For an organization, verification is done immediately and in all cases not later than 30 days after first engaging in that activity."
+ },
+ {
+  "id": 460,
+  "domain": "professional_responsibility_and_ethics",
+  "front": "Under section 57 of the Law Society Act, who is entitled to the interest earned on a mixed trust account holding money for more than one client?",
+  "back": "The Law Foundation of Ontario. The licensee must direct the financial institution in writing to pay that interest directly to the Foundation and is not liable to account to any other person for it."
+ },
+ {
+  "id": 461,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Where must a licensee pay money received in trust for a client?",
+  "back": "Immediately into an account at a Schedule I or II bank, a credit union under the Credit Unions and Caisses Populaires Act, 2020, or a registered trust corporation, kept in the name of the licensee or firm and designated as a trust account. By-Law 9, s.7(1)."
+ },
+ {
+  "id": 462,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Can trust funds be used to pay the firm's operating expenses?",
+  "back": "No. Trust funds belong to clients and must never be commingled with the licensee's or firm's own money. Bank service charges on a mixed trust account are taken from the general account, not from trust. Law Society Bookkeeping Guide."
+ },
+ {
+  "id": 463,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "On opening a mixed trust account, what must the licensee direct the financial institution to do with interest?",
+  "back": "Give a written direction to pay any interest directly to The Law Foundation of Ontario, as required by section 57 of the Law Society Act. A separate interest bearing account for one client pays interest to that client."
+ },
+ {
+  "id": 464,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "What is a mixed trust account?",
+  "back": "A trust account that holds money for more than one client, as opposed to a separate interest bearing trust account, which holds funds for only one client."
+ },
+ {
+  "id": 465,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Who is entitled to interest earned on money held for more than one client in one trust fund?",
+  "back": "The interest is deemed held in trust for The Law Foundation of Ontario, not the licensee or the clients, subject to a written arrangement or a client's entitlement under a separate account. Law Society Act, s.57."
+ },
+ {
+  "id": 466,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "How many days after the end of the month must the monthly trust comparison and reconciliation record be created?",
+  "back": "Within 25 days after the last day of the month being reported. By-Law 9, s.22(2), read with s.18 para 8. For example, the March reconciliation is due by April 25."
+ },
+ {
+  "id": 467,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Does a mixed trust account with no activity in a given month still need to be reconciled that month?",
+  "back": "Yes. Every trust account, including a SIBA and an ERBA, must be reconciled and compared every month within 25 days after month end, even if no trust activity occurred that month."
+ },
+ {
+  "id": 468,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Within how many days of opening a new trust account must the irrevocable written authorization to disclose account information to the Law Society be submitted?",
+  "back": "Within 30 days of opening the account. By-Law 9, s.7(8)(a)(i). Existing trust accounts had a separate deadline of March 31, 2027 to submit the authorization."
+ },
+ {
+  "id": 469,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "What four books and records does section 18 of By-Law 9 require as a minimum for trust money?",
+  "back": "A book of original entry for money received in trust, a book of original entry for disbursements out of trust, a clients' trust ledger showing each client's activity and balance, and a record of transfers between clients' trust ledger accounts."
+ },
+ {
+  "id": 470,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "What must a licensee do if a client trust ledger balance becomes overdrawn?",
+  "back": "Resolve the overdrawn balance immediately. No client trust balance may remain overdrawn, per the Law Society's Guide to managing trust accounts."
+ },
+ {
+  "id": 471,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "What must a lawyer do if trust funds are misapplied, for example a client's cheque bounces after funds were already paid out?",
+  "back": "Replace the funds immediately from the lawyer's own money, never use other clients' funds, and report the misapplication to the Law Society through LSO Connects. Rule 7.1-3 also requires reporting misappropriation of trust monies."
+ },
+ {
+  "id": 472,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "For how long must the financial records under By-Law 9 sections 18, 19 and 19.1 generally be kept?",
+  "back": "At least the six year period immediately preceding the licensee's most recent fiscal year end. By-Law 9, s.23(1)."
+ },
+ {
+  "id": 473,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Which By-Law 9 records must be kept for ten years rather than six?",
+  "back": "The records required under paragraphs 1, 2, 3, 8, 9, 10 and 11 of section 18, kept for at least the ten year period immediately preceding the licensee's most recent fiscal year end. By-Law 9, s.23(2)."
+ },
+ {
+  "id": 474,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "How long must mortgage records under section 20 of By-Law 9 be kept after discharge?",
+  "back": "At least ten years following either the discharge of the mortgage or charge, or the day the licensee ceases to be trustee, whichever applies. By-Law 9, s.23(3)."
+ },
+ {
+  "id": 475,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "By when must a licensee file the Annual Report through LSO Connects each year?",
+  "back": "By March 31 of each year. A licensee who fails to file by March 31 may be administratively suspended."
+ },
+ {
+  "id": 476,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "What must a licensee do with a mortgage held in trust for a private lender before the first advance of money?",
+  "back": "Keep a file containing a completed Form 9C Investment Authority signed and dated by each private lender before the first advance, plus a copy of the completed Form 9D Report on Investment. By-Law 9, s.24."
+ },
+ {
+  "id": 477,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Can a private lender withdraw trust funds by electronic funds transfer?",
+  "back": "No. A lender is not permitted to execute an electronic funds transfer to withdraw trust funds for any reason. By-Law 9, s.24(6)."
+ },
+ {
+  "id": 478,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "What must happen before a trust account is closed?",
+  "back": "All client funds must be disbursed or transferred, all cheques confirmed cleared, the final reconciliation must show a zero balance, then the financial institution is instructed to close the account and the closure is reported to the Law Society through LSO Connects."
+ },
+ {
+  "id": 479,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "What happens to unclaimed trust funds if a client cannot be located after two years of reasonable efforts?",
+  "back": "The licensee applies to transfer the remaining balance to the Law Society's Unclaimed Trust Fund."
+ },
+ {
+  "id": 480,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "What is the cash limit a licensee may receive or accept in respect of any one client file?",
+  "back": "No more than $7,500 in aggregate Canadian dollars in cash per client file, subject to the exceptions listed in By-Law 9, s.6. By-Law 9, s.4(1)."
+ },
+ {
+  "id": 481,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Is a licensee required to accept cash from a client?",
+  "back": "No. Accepting cash is entirely at the licensee's or firm's discretion. Where cash is accepted, the licensee should assess the heightened risk it may be proceeds of crime and communicate acceptable payment methods at the outset."
+ },
+ {
+  "id": 482,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "If a client deposit was made in cash, in what form must a refund of that deposit be issued?",
+  "back": "In cash. By-Law 9, s.6(d) requires that where the original deposit was cash, any refund must also be made in cash."
+ },
+ {
+  "id": 483,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "What does rule 3.2-7.3 of the Rules of Professional Conduct say about a lawyer's trust account?",
+  "back": "A lawyer shall not use the lawyer's trust account for purposes not related to the provision of legal services."
+ },
+ {
+  "id": 484,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "What must a lawyer acting for a lender provide within 60 days of registration of a mortgage?",
+  "back": "A final report on the transaction, with the duplicate registered mortgage, delivered to the lender within 60 days of registration, or within such other time as the lender instructs. Rule 3.2-9.8."
+ },
+ {
+  "id": 485,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "What must a lawyer disclose before recommending a specific title insurance product?",
+  "back": "The lawyer must not receive any compensation, directly or indirectly, from a title insurer or intermediary for recommending a product, and must disclose that no commission or fee is being furnished. Rules 3.2-9.5 and 3.2-9.6."
+ },
+ {
+  "id": 486,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "What are the minimum professional liability insurance limits a licensee must carry?",
+  "back": "At least $1 million for each single claim and an aggregate policy limit of at least $2 million per year, from a licensed insurer, under the mandatory LAWPRO minimum coverage requirements."
+ },
+ {
+  "id": 487,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Under rule 3.6-1.1, when may a lawyer charge a client interest on an overdue account?",
+  "back": "Only as permitted by the Solicitors Act or as otherwise permitted by law, not at the lawyer's own discretion."
+ },
+ {
+  "id": 488,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Under the Solicitors Act, from what date may a solicitor charge interest on unpaid fees and disbursements?",
+  "back": "From a date one month after the bill is delivered. If the client overpaid, the client is entitled to interest on the overpayment from the date of overpayment. Solicitors Act, s.33(1) and (2)."
+ },
+ {
+  "id": 489,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "In what two types of matters is a contingency fee agreement prohibited in Ontario?",
+  "back": "Criminal Code or other criminal or quasi-criminal proceedings, and family law matters. Solicitors Act, s.28.1(2) and (3); rule 3.6-2."
+ },
+ {
+  "id": 490,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "How many days does a solicitor and client have to jointly apply to the Superior Court of Justice to approve a contingency fee above the regulated maximum percentage?",
+  "back": "90 days after the contingency fee agreement is executed. An agreement above the cap is not enforceable unless approved. Solicitors Act, s.28.1(6) and (9)."
+ },
+ {
+  "id": 491,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Must a contingency fee agreement be in writing?",
+  "back": "Yes. Solicitors Act, s.28.1(4). Where the fee is a percentage of amount or property recovered, it cannot exceed the maximum percentage set by regulation, however the recovery is achieved."
+ },
+ {
+  "id": 492,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "In a statement of account, how must fees and disbursements be presented?",
+  "back": "Clearly and separately detailed as amounts charged for fees and amounts charged for disbursements. Rule 3.6-3."
+ },
+ {
+  "id": 493,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "How must fees be divided when a lawyer acts for two or more clients in the same matter?",
+  "back": "Equitably between the clients, unless the clients agree otherwise. Rule 3.6-4."
+ },
+ {
+  "id": 494,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "What must be in place for a lawyer to pay or accept a referral fee to another licensee outside the firm?",
+  "back": "A signed written referral agreement, in the Law Society's form, confirming the client was advised of no obligation to accept the referral, entered into at or soon after the time of referral, with a fee that is fair and reasonable and does not increase the client's total fee. Rule 3.6-6.1."
+ },
+ {
+  "id": 495,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Can a lawyer share fees with someone who is not a lawyer or paralegal?",
+  "back": "No, directly or indirectly, and a lawyer may not give any financial or other reward to a non-licensee for referring clients, subject to limited exceptions for multi-discipline practices. Rules 3.6-7 and 3.6-8."
+ },
+ {
+  "id": 496,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Within how many days must a client apply for an order for assessment of a bill already delivered, on requisition without a court application?",
+  "back": "Within one month from delivery of the bill. After one month, the solicitor, not the client, may obtain such an order. Solicitors Act, s.3(b) and (c)."
+ },
+ {
+  "id": 497,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "After how many months from delivery of a bill can a court no longer direct a reference for assessment, absent special circumstances?",
+  "back": "Twelve months from delivery, sent or leaving of the bill, or after a verdict or judgment has been obtained, except under special circumstances proved to the court's satisfaction. Solicitors Act, s.4(1)."
+ },
+ {
+  "id": 498,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Once a client obtains a court order for delivery and assessment of a bill, within how many days must the solicitor deliver the bill?",
+  "back": "Within fourteen days from service of the order. The bill then stands referred to an assessment officer. Solicitors Act, s.6(1)."
+ },
+ {
+  "id": 499,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Does payment of a bill prevent a court from later ordering it assessed?",
+  "back": "No. Payment does not bar assessment if the special circumstances of the case require referring the bill for assessment. Solicitors Act, s.11."
+ },
+ {
+  "id": 500,
+  "domain": "practice_management_fees_and_trust_accounting",
+  "front": "Can the Law Society reduce a lawyer's bill that a client thinks is too high?",
+  "back": "No. The Law Society does not set fees and cannot reduce a bill. A person with that complaint may be referred to the Assessment Office of the Superior Court of Justice."
+ }
+]
